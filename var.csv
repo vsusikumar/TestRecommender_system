@@ -1,0 +1,705 @@
+﻿Company_name,Status_on_IPO_and_M&A,Category,Country,Headquarter,Date_found,Date_joined,Date_exited,Funding_in_USD,Funding_rounds,First_funding_round_date,Last_funding_round_date,Patents_Granted,Trademarks_Registered,Valuation_at_IPO,Money_Raised_at_IPO,No._of_employees,Female_founder,Years_to_be_Unicorn,Duration_between_founded_to_reaching_a_unicorn_list_in_days,Duration_between_unicorn_listed_date_and_exit_date_in_days,Duration_between_first_funding_round_and_last_funding_round_in_days,Duration_between_founded_to_reaching_ a_unicorn_list_in_months,Duration_between_unicorn_listed_date_and_exit_date_in_months,Duration_between_first_funding_round_and_last_funding_round_in_months,Duration_between_founded_to_reaching_a_unicorn_list_in_years,Duration_between_unicorn_listed_date_and_exit_date_in_years,Duration_between_first_funding_round_and_last_funding_round_in_years,Duration_between_founded_to_reaching_a_unicorn_list_in_quarters,Duration_between_unicorn_listed_date_and_exit_date_in_quarters,Duration_between_first_funding_round_and_last_funding_round_in_quarters,Status_target_variable
+Alto Pharmacy,Private,Health,United States,"San Francisco, California, United States",01-06-2015,23-08-2017,30-01-2020,412430000,7,20-06-2015,02-11-2021,0,1,0,   ,500,No,5,814,890,2327,26,29,76,2,2,6,7,7,19,No
+10X Genomics,IPO,Biotech,United States,"Pleasanton, California, United States",01-01-2012,07-01-2019,25-02-2021,242600000,6,01-11-2012,07-01-2019,256,25,3660000000,390000000,10,No,8,2563,780,2258,84,25,74,7,2,6,21,6,22,Yes
+17zuoye,IPO,Edtech,China,"Shanghai, Shanghai, China",01-01-2011,17-11-2016,07-03-2018,585000000,7,01-01-2011,21-03-2018,,0,2250000000,287700000,501,No,8,2147,475,2636,70,15,86,5,1,7,18,4,17,Yes
+4Paradigm,Private,Artificial intelligence,China,"Beijing, Beijing, China",01-01-2014,19-12-2018,,1075261565,9,14-07-2015,01-03-2021,,0,0,   ,1000,Yes,5,1813,,2057,59,,67,4,,5,15,0,19,No
+ACV Auctions/ ACV,IPO,E-commerce & direct-to-consumer,United States,"Buffalo, New York, United States",01-01-2014,12-11-2019,13-07-2021,351000000,9,07-05-2014,03-09-2020,3,10,3900000000,413750000,5000,No,6,2141,609,2311,70,20,75,5,1,6,18,5,27,Yes
+Affirm,IPO,Fintech,United States,"San Francisco, California, United States",01-01-2012,,21-04-2021,1520000000,11,01-01-2012,13-01-2021,3,15,11900000000,1200000000,5000,No,0,,44307,3300,,1455,108,,121,9,0,364,8,Yes
+Aijia Life/ Aijia Home Furnishing Products,Unexplained Exit,Other,China,"Nanjing, Jiangsu, China",01-01-2015,17-09-2018,,145725988,2,01-01-2016,18-09-2018,,0,0,   ,50,No,4,1355,,991,44,,32,3,,2,11,0,26,No
+Airtable,Private,Internet software & services,United States,"San Francisco, California, United States",01-01-2013,15-11-2018,,1352600000,9,18-03-2013,13-12-2021,0,2,0,   ,500,No,6,2144,,3192,70,,104,5,,8,18,0,16,No
+Airwallex,Private,Fintech,Australia,"Melbourne, Victoria, Australia",01-12-2015,25-03-2019,,802000000,11,05-07-2016,17-11-2021,0,2,0,   ,5000,Yes,4,1210,,1961,39,,64,3,,5,10,0,13,No
+AIWAYS,Private,Auto & transportation,China,"Shanghai, Shanghai, China",01-02-2017,16-04-2018,,791729484,7,18-10-2017,03-01-2022,22,9,0,   ,1001,No,2,439,,1538,14,,50,1,,4,4,0,15,No
+Allbirds,IPO,E-commerce & direct-to-consumer,United States,"San Francisco, California, United States",01-01-2014,11-10-2018,26-03-2020,202450000,7,31-07-2015,27-09-2020,19,67,2150000000,303000000,251,No,5,1744,532,1885,57,17,61,4,1,5,14,4,12,Yes
+Anduril/ Anduril Industries,Made Acquisitions,Artificial intelligence,United States,"Irvine, California, United States",01-01-2017,11-09-2019,03-04-2021,691000000,5,11-08-2017,01-07-2021,9,0,,,500,No,3,983,570,1420,32,18,46,2,1,3,8,5,23,Yes
+AppLovin,IPO,Mobile & telecommunications,United States,"Palo Alto, California, United States",01-01-2011,01-01-2017,06-10-2021,1385000000,7,11-12-2012,05-08-2020,0,2,28600000000,2000000000,1000,No,7,2192,1739,2794,72,57,91,6,4,7,18,14,17,Yes
+ApplyBoard,Private,Edtech,Canada,"Waterloo, Ontario, Canada",01-05-2015,05-05-2020,10-01-2022,483480000,9,31-10-2015,15-06-2021,1,6,,,5000,No,6,1831,615,2054,60,20,67,5,1,5,15,5,25,No
+AppsFlyer,Made Acquisitions,Mobile & telecommunications,United States,"San Francisco, California, United States",01-04-2011,31-05-2018,21-01-2020,293100000,6,15-09-2012,24-11-2020,,,,,1001,No,9,2617,600,2992,85,19,98,7,1,8,21,5,2,Yes
+APUS Group,Acquired,Mobile & telecommunications,China,"Beijing, Beijing, China",01-06-2014,16-01-2015,29-03-2017,116037548,2,06-06-2014,27-01-2015,0,0,,,251,No,1,229,803,235,7,26,7,0,2,0,2,7,13,Yes
+Argo AI,Private,Artificial intelligence,United States,"Pittsburgh, Pennsylvania, United States",01-01-2016,12-07-2019,12-07-2019,3600000000,3,13-02-2017,21-07-2021,78,13,,,5000,No,4,1288,0,1619,42,0,53,3,0,4,11,0,0,No
+Arrival,IPO,Auto & transportation,United Kingdom,"London, England, United Kingdom",01-01-2015,15-01-2020,25-03-2021,629369612,3,,,35,9,13000000000,660000000,5000,No,6,1840,435,0,60,14,0,5,1,0,15,4,19,Yes
+Atom Bank,Unexplained Exit,Fintech,United Kingdom,"Durham, Durham, United Kingdom",01-03-2014,08-03-2016,07-03-2018,639755613,9,04-12-2014,06-04-2021,4,20,,,500,No,5,738,729,2315,24,23,76,2,1,6,6,6,14,No
+Aurora,IPO,Auto & transportation,United States,"Pittsburgh, Pennsylvania, United States",01-01-2017,07-02-2019,09-08-2021,2090000000,7,06-03-2017,04-11-2021,28,3,14000000000,2500000000,5000,No,3,767,914,1704,25,30,55,2,2,4,6,8,19,Yes
+Auth0,M&A,Cybersecurity,United States,"Bellevue, Washington, United States",01-02-2013,12-03-2020,14-07-2020,332275000,10,17-09-2014,01-12-2020,4,9,,,1000,No,8,2596,124,2267,85,4,74,7,0,6,21,1,23,Yes
+AUTO1 Group,IPO,E-commerce & direct-to-consumer,Germany,"Berlin, Berlin, Germany",01-01-2012,06-07-2015,04-03-2021,1387053390,10,15-01-2013,30-07-2020,0,5,7900000000,1800000000,5000,No,4,1282,2068,2753,42,67,90,3,5,7,11,17,24,Yes
+Avant,Private,Artificial intelligence,United States,"Chicago, Illinois, United States",01-11-2012,17-12-2012,07-04-2021,1582900814,11,08-05-2013,21-04-2021,0,4,,,501,No,1,46,3033,2905,1,99,95,0,8,7,0,25,13,No
+Away,Private,E-commerce & direct-to-consumer,United States,"New York, New York, United States",01-02-2015,15-05-2019,,181000000,6,01-01-2015,14-05-2019,33,20,,,1000,Yes,5,1564,,1594,51,,52,4,,4,13,0,365,No
+Babylon Health/ Babylon,IPO,Artificial intelligence,United Kingdom,"London, England, United Kingdom",01-01-2013,02-08-2019,22-10-2021,1131090847,7,,22-10-2021,32,7,4200000000,460000000,5000,No,7,2404,812,44491,79,26,1461,6,2,121,20,7,9,Yes
+Banma Network Technologies/ Banma Information Technology,Private,Auto & transportation,China,"Shanghai, Shanghai, China",01-01-2015,01-09-2015,13-09-2018,696743025,2,13-09-2018,14-07-2021,,,,,250,No,4,243,1108,1035,8,36,34,0,3,2,2,9,12,No
+BenevolentAI,Private,Artificial intelligence,United Kingdom,"London, England, United Kingdom",13-11-2013,02-06-2015,,292000000,3,26-08-2015,17-09-2019,0,10,,,100,No,2,566,,1483,18,,48,1,,4,5,0,25,No
+BigBasket,M&A,"Supply chain, logistics, & delivery",India,"Bangalore, Karnataka, India",01-10-2011,06-05-2019,24-03-2020,1119863468,17,01-12-2011,15-04-2020,,,,,10000,No,8,2774,323,3058,91,10,100,7,0,8,23,3,13,Yes
+Bird Rides/ Bird,IPO,Auto & transportation,United States,"Santa Monica, California, United States",01-01-2017,30-05-2018,05-11-2021,783015000,12,09-06-2017,05-11-2021,5,8,2300000000,428000000,1000,No,2,514,1255,1610,16,41,52,1,3,4,4,10,13,Yes
+Bitfury/ Bitfury Group,Private,Hardware,Netherlands,"Amsterdam, Noord-Holland, The Netherlands",01-01-2011,06-11-2018,05-03-2021,170000000,6,30-05-2014,31-07-2018,,,,,1000,No,8,2866,850,1523,94,27,50,7,2,4,24,7,3,No
+Bitmain Technologies/ Bitmain,Private,Hardware,China,"Beijing, Beijing, China",01-01-2013,06-07-2018,,7647000000,4,04-09-2017,07-08-2018,,,,,,No,6,2012,,337,66,,11,5,,0,17,0,23,No
+Bolt,Private,Fintech,United States,"Tallinn, Harjumaa, Estonia",01-08-2013,08-10-2021,,2043025562,12,23-04-2014,11-01-2022,0,10,,,5000,No,9,2990,,2820,98,,92,8,,7,25,0,20,No
+Branch,Private,Mobile & telecommunications,United States,"Redwood City, California, United States",15-04-2014,10-09-2018,,558120000,7,01-06-2014,01-12-2020,0,2,,,250,Yes,5,1609,,2375,52,,78,4,,6,13,0,14,No
+Brex,Private,Fintech,United States,"San Francisco, California, United States",01-03-2017,05-10-2018,,1457120000,11,20-03-2017,22-10-2021,1,4,,,1000,No,2,583,,1677,19,,55,1,,4,5,0,30,No
+Butterfly Network,IPO,Artificial intelligence,United States,"Guilford, Connecticut, United States",01-01-2011,13-07-2018,16-02-2021,525000000,4,01-01-2011,16-02-2021,238,12,1500000000,,250,No,8,2750,949,3699,90,31,121,7,2,10,23,8,25,Yes
+BYJU'S/ BYJUÃ¢â‚¬â„¢S,Private,Edtech,India,"Bangalore, Karnataka, India",30-11-2011,25-07-2017,,4456239473,21,01-09-2013,08-11-2021,0,2,,,5000,Yes,6,2064,,2990,67,,98,5,,8,17,0,25,No
+Bytedance,Private,Artificial intelligence,China,"Shanghai, Shanghai, China",01-03-2012,07-04-2017,,9405000000,12,01-07-2012,11-12-2020,0,3,,,10000,No,6,1863,,3085,61,,101,5,,8,15,0,10,No
+BYTON,Private,Auto & transportation,China,"Nanjing, Jiangsu, China",01-01-2016,20-04-2018,,1200000000,5,12-07-2016,26-12-2019,49,0,,,5000,No,3,840,,1262,27,,41,2,,3,7,0,23,No
+Calm,Private,Consumer & retail,United States,"San Francisco, California, United States",04-05-2012,06-02-2019,,218043000,8,26-02-2013,08-12-2020,0,25,,,250,No,7,2469,,2842,81,,93,6,,7,20,0,26,No
+Canva,Private,Internet software & services,Australia,"Sydney, New South Wales, Australia",01-01-2012,08-01-2018,,572555000,16,08-03-2013,14-09-2021,89,34,,,1000,Yes,7,2199,,3112,72,,102,6,,8,18,0,24,No
+Carbon,Private,Hardware,United States,"Redwood City, California, United States",01-01-2013,20-08-2015,,683350000,8,31-12-2013,15-12-2021,229,7,,,500,No,3,961,,2906,31,,95,2,,7,8,0,27,No
+Carta,Private,Fintech,United States,"San Francisco, California, United States",01-01-2012,06-05-2019,,1127800000,15,01-10-2012,13-08-2021,4,6,,,5000,No,8,2682,,3238,88,,106,7,,8,22,0,15,No
+Casper,IPO,E-commerce & direct-to-consumer,United States,"New York, New York, United States",01-01-2014,27-03-2019,05-02-2020,339700000,5,25-02-2014,27-03-2019,25,43,476000000,100000000,1000,No,6,1911,315,1856,62,10,61,5,0,5,16,3,15,Yes
+Celonis,Acquired,Data management & analytics,Germany,"Munich, Bayern, Germany",01-01-2011,26-06-2018,04-10-2021,1367500000,4,07-06-2016,02-06-2021,11,22,,,5000,No,8,2733,1196,1821,89,39,59,7,3,4,22,10,10,Yes
+CGTZ,Private,Fintech,China,"Hangzhou, Zhejiang, China",01-10-2013,21-02-2017,,521062626,4,02-02-2015,04-06-2018,,,,,50,No,4,1239,,1218,40,,40,3,,3,10,0,8,No
+Checkout.com,Acquired,Fintech,United Kingdom,"London, England, United Kingdom",01-01-2012,02-05-2019,15-06-2021,1830000000,3,02-05-2019,12-01-2022,0,3,,,5000,No,8,2678,775,986,88,25,32,7,2,2,22,6,22,Yes
+Checkr,Private,Internet software & services,United States,"San Francisco, California, United States",01-01-2014,01-10-2018,19-09-2019,559000000,9,16-07-2014,01-10-2021,1,3,,,1000,No,6,1734,353,2634,57,11,86,4,0,7,14,3,24,No
+Chime,Private,Fintech,United States,"San Francisco, California, United States",01-01-2013,05-03-2019,16-08-2021,2292603117,10,30-08-2013,13-08-2021,0,3,,,5000,No,7,2254,895,2905,74,29,95,6,2,7,19,7,23,No
+Circle,IPO,Fintech,United States,"Boston, Massachusetts, United States",01-01-2013,15-05-2018,05-10-2018,711000000,10,31-10-2013,29-05-2021,,,,,250,No,6,1960,143,2767,64,4,90,5,0,7,16,1,26,Yes
+ClassPass,M&A,Internet software & services,United States,"New York, New York, United States",01-01-2011,08-01-2020,02-03-2020,549243000,12,01-07-2011,08-01-2020,0,7,,,1000,Yes,10,3294,54,3113,108,1,102,9,0,8,27,0,16,Yes
+Cloudwalk/ CloudWalk Technology,Private,Artificial intelligence,China,"Beijing, Beijing, China",01-01-2015,08-10-2018,,804747563,7,01-04-2015,01-06-2020,,,,,5000,No,4,1376,,1888,45,,62,3,,5,11,0,19,No
+Clover Health,IPO,Health,United States,"Nashville, Tennessee, United States",01-01-2014,10-05-2017,17-11-2021,1325000000,7,23-07-2014,08-01-2021,1,5,7000000000,1200000000,500,No,4,1225,1652,2361,40,54,77,3,4,6,10,14,15,Yes
+CMR Surgical,Private,Health,United Kingdom,"Cambridge, Cambridgeshire, United Kingdom",27-01-2014,17-09-2019,,974681073,5,18-07-2016,28-06-2021,149,16,,,500,No,6,2059,,1806,67,,59,5,,4,17,0,19,No
+Cohesity,Acquired,Data management & analytics,United States,"San Jose, California, United States",01-06-2013,11-06-2018,08-05-2019,660000000,5,15-11-2013,09-04-2020,105,9,,,5000,No,6,1836,331,2337,60,10,76,5,0,6,15,3,0,Yes
+Coinbase,IPO,Fintech,United States,"San Francisco, California, United States",20-06-2012,10-08-2017,12-01-2022,547309825,18,28-04-2021,28-04-2021,33,17,86000000000,,5000,No,6,1877,1616,0,61,53,0,5,4,0,15,13,19,Yes
+Confluent,IPO,Data management & analytics,United States,"Mountain View, California, United States",23-09-2014,02-08-2018,23-01-2019,455900000,6,06-11-2014,21-04-2021,8,7,9100000000,828000000,5000,Yes,5,1409,174,2358,46,5,77,3,0,6,12,1,17,Yes
+Convoy,Private,"Supply chain, logistics, & delivery",United States,"Seattle, Washington, United States",01-01-2015,21-09-2018,,675500000,10,26-10-2015,30-07-2021,,,,,1000,No,4,1359,,2104,44,,69,3,,5,11,0,26,No
+Coursera,IPO,Edtech,United States,"Mountain View, California, United States",01-01-2012,25-04-2019,10-01-2022,446800000,19,18-04-2012,23-10-2020,20,12,4300000000,520000000,5000,Yes,8,2671,991,3110,87,32,102,7,2,8,22,8,19,Yes
+CrowdStrike,IPO,Cybersecurity,United States,"Sunnyvale, California, United States",01-01-2011,01-05-2017,01-11-2021,481000000,7,23-02-2012,19-06-2018,90,19,6600000000,612000000,1001,No,7,2312,1645,2308,76,54,75,6,4,6,19,14,23,Yes
+Cybereason,Acquired,Cybersecurity,United States,"Boston, Massachusetts, United States",01-01-2012,06-08-2019,20-07-2021,713600000,8,11-02-2014,19-10-2021,18,4,,,5000,No,8,2774,714,2807,91,23,92,7,1,7,23,6,18,Yes
+Dada-JD Daojia,IPO,E-commerce & direct-to-consumer,China,"Shanghai, Shanghai, China",01-06-2014,31-12-2015,05-06-2020,1270000000,7,01-06-2014,05-06-2020,0,2,3500000000,320000000,5000,No,2,578,1618,2196,18,53,72,1,4,6,5,13,15,Yes
+Darktrace,IPO,Artificial intelligence,United Kingdom,"Cambridge, Cambridgeshire, United Kingdom",01-01-2013,15-05-2018,30-04-2021,230500000,9,16-09-2013,26-09-2018,2,0,1700000000,165100000,5000,Yes,6,1960,1081,1836,64,35,60,5,2,5,16,9,24,Yes
+Databricks,Acquired,Data management & analytics,United States,"San Francisco, California, United States",01-01-2013,05-02-2019,06-10-2021,3497000000,9,25-09-2013,31-08-2021,21,6,,,5000,No,7,2226,974,2897,73,32,95,6,2,7,18,8,26,Yes
+Dataiku,Private,Internet software & services,United States,"New York, New York, United States",01-01-2013,04-12-2019,,646835229,10,01-01-2013,05-08-2021,0,1,,,1000,No,7,2528,,3138,83,,103,6,,8,21,0,25,No
+DataRobot,Private,Artificial intelligence,United States,"Boston, Massachusetts, United States",01-06-2012,29-07-2019,26-07-2021,1000598000,13,14-01-2013,29-06-2021,44,14,,,5000,No,8,2614,728,3088,85,23,101,7,1,8,21,6,13,No
+Dave,Private,Fintech,United States,"Los Angeles, California, United States",28-10-2016,30-09-2019,,176301000,7,02-10-2016,28-01-2021,0,4,,,250,No,3,1067,,1579,35,,51,2,,4,9,0,19,No
+Delhivery,Acquired,"Supply chain, logistics, & delivery",India,"Gurgaon, Haryana, India",01-05-2011,27-02-2019,08-12-2021,1412892455,13,15-07-2015,05-01-2022,0,1,,,10001,No,8,2859,1015,2366,93,33,77,7,2,6,23,8,22,Yes
+Deliveroo,IPO,"Supply chain, logistics, & delivery",United Kingdom,"London, England, United Kingdom",01-01-2012,25-09-2017,10-01-2022,1712682541,13,01-05-2014,09-08-2021,0,13,7590000000,1500000000,10000,No,6,2094,1568,2657,68,51,87,5,4,7,17,13,23,Yes
+Deposit Solutions,Unexplained Exit,Fintech,Germany,"Hamburg, Hamburg, Germany",01-01-2011,01-01-2011,,198871071,6,13-01-2012,19-09-2019,0,2,,,250,No,   ,0,,2806,0,,92,0,,7,0,0,15,No
+Desktop Metal,IPO,Hardware,United States,"Burlington, Massachusetts, United States",01-01-2015,17-07-2017,,711760835,10,27-10-2015,04-12-2020,129,27,2500000000,,250,No,3,928,,1865,30,,61,2,,5,8,0,12,Yes
+Devoted Health,Private,Health,United States,"Waltham, Massachusetts, United States",01-03-2017,16-10-2018,,1962000000,5,20-10-2017,08-10-2021,0,2,,,5000,No,2,594,,1449,19,,47,1,,3,5,0,16,No
+Dianrong,Private,E-commerce & direct-to-consumer,China,"Shanghai, Shanghai, China",17-02-2013,02-08-2017,,549000000,8,31-12-2013,21-06-2019,14,1,,,5000,No,5,1627,,1998,53,,65,4,,5,13,0,7,No
+Didi Chuxing/ Didi,IPO,Auto & transportation,China,"Beijing, Beijing, China",01-09-2012,31-03-2015,,22746700000,26,18-11-2014,01-03-2017,0,12,73000000000,4400000000,10001,No,3,941,,834,30,,27,2,,2,8,0,28,Yes
+DigitalOcean,IPO,Internet software & services,United States,"New York, New York, United States",01-01-2012,14-05-2020,23-03-2021,491275418,20,25-05-2012,13-09-2021,3,13,4950000000,775500000,1000,No,9,3056,313,3398,100,10,111,8,0,9,25,3,28,Yes
+Discord,Private,Internet software & services,United States,"San Francisco, California, United States",01-01-2015,20-04-2018,13-07-2021,982600000,15,11-07-2012,16-09-2021,0,5,,,1000,No,4,1205,1180,3354,39,38,110,3,3,9,10,10,17,No
+Doctolib,Acquired,Health,France,"Paris, Ile-de-France, France",01-01-2013,19-03-2019,11-01-2022,266655052,7,01-07-2013,19-03-2019,0,8,,,5000,No,7,2268,1029,2087,74,33,68,6,2,5,19,8,22,Yes
+DoorDash,IPO,"Supply chain, logistics, & delivery",United States,"San Francisco, California, United States",01-01-2013,01-03-2018,09-11-2021,2471820000,13,01-03-2013,18-06-2020,234,44,39000000000,3370000000,10001,No,6,1885,1349,2666,62,44,87,5,3,7,16,11,13,Yes
+Douyu TV,M&A,Media & Entertainment,China,"Wuhan, Hubei, China",01-01-2013,08-03-2018,17-07-2019,1127827858,5,01-01-2014,08-03-2018,268,4,4000000000,775000000,500,No,6,1892,496,1527,62,16,50,5,1,4,16,4,12,Yes
+Dt Dream,Private,Data management & analytics,China,"Hangzhou, Zhejiang, China",01-03-2015,08-06-2017,,266589326,3,01-08-2015,26-09-2019,,,,,250,No,3,830,,1517,27,,49,2,,4,7,0,27,No
+Duolingo,IPO,Education,United States,"Pittsburgh, Pennsylvania, United States",01-01-2011,04-12-2019,28-07-2021,183300000,9,19-10-2011,18-11-2020,1,7,3660000000,520000000,1000,No,   ,3259,602,3318,107,19,108,8,1,9,27,5,11,Yes
+EBANX,Private,Fintech,Brazil,"Curitiba, Parana, Brazil",01-02-2012,16-10-2019,,460000000,3,01-12-2017,15-06-2021,,,,,1000,No,8,2814,,1292,92,,42,7,,3,23,0,14,No
+Emerging markets Property Group/ Emerging Markets Property Group (EMPG),Private,Other,United Arab Emirates,"Dubai, Dubai, United Arab Emirates",01-01-2015,28-04-2020,,279000000,5,25-09-2015,28-04-2020,,,,,,No,6,1944,,1677,63,,55,5,,4,16,0,17,No
+MEGVII,Private,Artificial intelligence,China,"Beijing, Beijing, China",08-10-2011,31-10-2017,,1357000000,7,18-07-2013,08-05-2019,56,17,,,5000,No,7,2215,,2120,72,,69,6,,5,18,0,10,No
+Fair,Private,Auto & transportation,United States,"Santa Monica, California, United States",01-01-2016,20-12-2018,,2101000000,13,20-04-2016,17-09-2019,10,4,,,250,No,3,1084,,1245,35,,40,2,,3,9,0,15,No
+Faire,Private,Artificial intelligence,United States,"San Francisco, California, United States",01-01-2017,30-10-2019,,1095950000,11,19-12-2016,16-11-2021,0,3,,,1000,Yes,3,1032,,1793,33,,58,2,,4,8,0,24,No
+Figma,Private,Internet software & services,United States,"San Francisco, California, United States",01-10-2012,30-04-2020,,332874996,6,24-06-2013,24-06-2021,6,7,,,500,No,8,2768,,2922,90,,96,7,,8,23,0,9,No
+Figure Technologies/ Figure,Unexplained Exit,Fintech,United States,"San Francisco, California, United States",01-01-2018,05-11-2019,03-08-2021,1551588888,9,26-05-2018,20-05-2021,0,12,,,500,No,2,673,637,1090,22,20,35,1,1,2,6,5,21,No
+Flexport,Private,"Supply chain, logistics, & delivery",United States,"San Francisco, California, United States",01-01-2013,30-04-2018,,2239000000,15,28-02-2014,11-01-2021,2,9,,,5000,Yes,6,1945,,2509,63,,82,5,,6,16,0,4,No
+FlixMobility/ FlixBus,Private,Auto & transportation,Germany,"Munich, Bayern, Germany",01-01-2011,18-07-2019,,1213056722,7,07-07-2020,13-12-2021,0,44,,,5000,No,9,3120,,524,102,,17,8,,1,26,0,,No
+Flywire,IPO,Fintech,United States,"Boston, Massachusetts, United States",15-01-2011,0,15-12-2021,323200000,9,28-10-2021,04-03-2021,0,11,2400000000,251000000,1000,No,   ,,,-238,,,,,,,0,0,31,Yes
+Formlabs,Private,Hardware,United States,"Somerville, Massachusetts, United States",01-01-2011,01-08-2018,,253699968,9,01-01-2011,19-05-2021,94,22,,,1000,No,8,2769,,3791,91,,124,7,,10,23,0,15,No
+Futu Holdings,IPO,Fintech,China,"Hong Kong, Hong Kong Island, Hong Kong",01-01-2012,0,08-03-2019,285500000,4,01-03-2014,06-03-2019,,,1700000000,90000000,1000,No,   ,,,1831,,,60,,,5,0,0,12,Yes
+Geek+,Private,Hardware,China,"Beijing, Beijing, China",01-01-2015,21-11-2018,,439441286,6,01-05-2016,17-06-2020,,,,,500,No,4,1420,,1508,46,,49,3,,4,12,0,13,No
+GitLab,IPO,Internet software & services,United States,"San Francisco, California, United States",01-01-2011,19-09-2018,14-10-2021,413500000,9,09-07-2015,17-09-2019,4,0,11000000000,650000000,5000,No,8,2818,1121,1531,92,36,50,7,3,4,23,9,16,Yes
+Globality,Private,Artificial intelligence,United States,"Palo Alto, California, United States",01-01-2015,22-01-2019,,310550000,5,22-09-2015,21-01-2021,1,9,,,500,No,5,1482,,1948,48,,63,4,,5,12,0,16,No
+Glovo,Private,"Supply chain, logistics, & delivery",Spain,"Barcelona, Catalonia, Spain",01-03-2015,19-12-2019,,1162249826,13,14-12-2015,31-03-2021,1,21,,,5000,No,5,1754,,1934,57,,63,4,,5,14,0,27,No
+GoodRx,IPO,Health,United States,"Santa Monica, California, United States",01-01-2011,06-08-2018,13-05-2021,910300000,5,01-11-2011,13-09-2020,4,8,12670000000,1142000000,500,No,8,2774,1011,3239,91,33,106,7,2,8,23,8,7,Yes
+Grab,Private,Auto & transportation,Singapore,"Singapore, Central Region, Singapore",01-06-2012,04-12-2014,,15522750000,34,06-08-2019,02-12-2021,46,49,40000000000,4500000000,10000,No,3,916,,849,30,,27,2,,2,8,0,13,No
+Grail,M&A,Health,United States,"Menlo Park, California, United States",01-01-2016,01-03-2017,,2004655040,5,01-01-2016,06-05-2020,84,11,,,1000,Yes,2,425,,1587,14,,52,1,,4,4,0,15,Yes
+Graphcore,Private,Artificial intelligence,United Kingdom,"Bristol, Bristol, City of, United Kingdom",01-01-2016,18-12-2018,,682000000,7,31-10-2016,05-11-2021,77,11,,,500,No,3,1082,,1831,35,,60,2,,5,9,0,5,No
+Grove Collaborative,Private,E-commerce & direct-to-consumer,United States,"San Francisco, California, United States",01-01-2012,06-09-2019,,474500000,6,25-04-2019,10-12-2020,5,24,,,1000,No,8,2805,,595,92,,19,7,,1,23,0,18,No
+Chehaoduo,Private,E-commerce & direct-to-consumer,China,"Beijing, Beijing, China",01-01-2015,12-03-2016,,3870000000,9,10-07-2015,10-06-2021,,,,,10001,No,2,436,,2162,14,,71,1,,5,4,0,17,No
+Guild Education,Private,Internet software & services,United States,"Denver, Colorado, United States",01-06-2015,13-11-2019,,378500000,7,24-09-2015,02-06-2021,0,1,,,500,No,5,1626,,2078,53,,68,4,,5,13,0,19,No
+Gusto,Private,Fintech,United States,"San Francisco, California, United States",01-11-2011,18-12-2015,,691100000,16,06-04-2015,10-08-2021,10,1,,,5000,Yes,5,1508,,2318,49,,76,4,,6,12,0,30,No
+Gympass,Private,Internet software & services,United States,"New York, New York, United States",01-01-2012,12-06-2019,,525410314,7,01-01-2012,23-12-2021,0,3,,,5000,No,8,2719,,3644,89,,119,7,,9,22,0,19,No
+HashiCorp,Private,Internet software & services,United States,"San Francisco, California, United States",01-01-2012,01-11-2018,,349175000,5,10-12-2014,16-03-2021,0,20,16200000000,1224000000,5000,No,7,2496,,2288,82,,75,6,,6,21,0,14,No
+HeadSpin,Acquired,Mobile & telecommunications,United States,"Palo Alto, California, United States",15-08-2015,25-02-2020,07-03-2019,115700000,5,15-08-2015,25-02-2020,,,,,250,No,5,1655,,1655,54,,54,4,,4,14,0,10,Yes
+Hims/ Hims & Hers,IPO,Health,United States,"San Francisco, California, United States",01-01-2017,29-01-2019,24-06-2021,233200000,7,02-11-2017,20-01-2021,0,18,1600000000,280000000,500,No,3,758,877,1175,24,28,38,2,2,3,6,7,16,Yes
+Hippo Insurance,IPO,Fintech,United States,"Palo Alto, California, United States",01-01-2015,24-07-2019,26-03-2021,1259000000,9,01-04-2016,03-08-2021,,,5000000000,230000000,500,Yes,5,1665,611,1950,54,20,64,4,1,5,14,5,17,Yes
+Horizon Robotics,Private,Artificial intelligence,China,"Haidian, Beijing, China",01-01-2015,16-10-2015,27-02-2019,1600300002,9,16-10-2015,03-08-2021,11,16,,,500,No,5,288,1230,2118,9,40,69,0,3,5,2,10,14,No
+Huimin,Private,E-commerce & direct-to-consumer,China,"Beijing, Beijing, China",01-05-2013,05-09-2016,,516946860,3,01-01-2015,10-09-2019,,,,,500,Yes,4,1223,,1713,40,,56,3,,4,10,0,19,No
+Ibotta,Private,Fintech,United States,"Denver, Colorado, United States",01-01-2011,06-08-2019,,92915076,7,23-04-2013,06-08-2019,3,5,,,500,No,9,3139,,2296,103,,75,8,,6,26,0,0,No
+iCarbonX,Private,Artificial intelligence,China,"Shenzhen, Guangdong, China",27-10-2015,12-04-2016,,200000000,2,02-07-2016,15-07-2016,0,24,,,250,No,1,168,,13,5,,0,0,,0,1,0,25,No
+Illumio,Private,Cybersecurity,United States,"Sunnyvale, California, United States",01-01-2013,14-04-2015,,557500000,6,14-01-2013,24-06-2021,56,11,,,500,No,3,833,,3083,27,,101,2,,8,7,0,31,No
+Impossible Foods,Private,Consumer & retail,United States,"Redwood City, California, United States",01-01-2011,13-05-2019,,2591537000,20,14-07-2011,30-11-2021,41,31,,,1000,No,9,3054,,3792,100,,124,8,,10,25,0,11,No
+Improbable,Private,Other,United Kingdom,"London, England, United Kingdom",01-01-2012,11-05-2017,,604094860,6,01-12-2014,26-07-2018,13,19,,,1000,No,6,1957,,1333,64,,43,5,,3,16,0,17,No
+Indigo Ag/ Indigo,Private,Artificial intelligence,United States,"Boston, Massachusetts, United States",01-01-2014,26-09-2017,,1169000000,11,13-11-2014,03-08-2020,47,26,,,,No,4,1364,,2090,44,,68,3,,5,11,0,22,No
+Infinidat,Private,Hardware,United States,"Herzliya, Tel Aviv, Israel",01-01-2011,29-04-2015,,325000000,5,01-01-2013,11-06-2020,97,35,,,500,No,5,1579,,2718,51,,89,4,,7,13,0,13,No
+Instabase,Private,Data management & analytics,United States,"San Francisco, California, United States",01-01-2015,21-10-2019,,131970000,4,08-06-2015,21-10-2019,2,1,,,250,No,5,1754,,1596,57,,52,4,,4,14,0,28,No
+Instacart,Private,"Supply chain, logistics, & delivery",United States,"San Francisco, California, United States",01-01-2012,30-12-2014,,2919023124,20,01-06-2012,01-11-2021,268,32,,,10000,No,3,1094,,3440,35,,113,2,,9,9,0,17,No
+Intellifusion,Private,Artificial intelligence,China,"Shenzhen, Guangdong, China",01-01-2014,22-03-2019,,173494166,5,20-07-2015,07-04-2021,,,,,,No,6,1906,,2088,62,,68,5,,5,16,0,27,No
+Intercom,Private,Internet software & services,United States,"San Francisco, California, United States",01-08-2011,27-03-2018,,291820000,10,25-01-2012,10-02-2021,0,6,,,1000,No,7,2430,,3304,79,,108,6,,9,20,0,29,No
+InVision,Private,Internet software & services,United States,"New York, New York, United States",01-01-2011,01-11-2017,,356200000,10,02-03-2011,02-12-2020,2,9,,,500,No,7,2496,,3563,82,,117,6,,9,21,0,11,No
+JOLLY Information Technology/ Jollychic,Private,E-commerce & direct-to-consumer,China,"Hangzhou, Zhejiang, China",01-01-2012,29-05-2018,,95798798,3,01-01-2016,05-08-2019,0,10,,,5000,No,7,2340,,1312,76,,43,6,,3,19,0,28,No
+Jumia Group,IPO,E-commerce & direct-to-consumer,Nigeria,"Lagos, Lagos, Nigeria",01-01-2012,0,12-04-2019,1249310292,7,01-01-2012,30-03-2021,,,2200000000,196000000,10000,No,   ,,,3376,,,110,,,9,0,0,15,Yes
+JUUL Labs/ JUUL,Private,Consumer & retail,United States,"San Francisco, California, United States",01-01-2015,20-12-2017,,15129032811,12,20-03-2015,06-02-2020,201,64,,,5000,No,3,1084,,1784,35,,58,2,,4,9,0,25,No
+KeepTruckin,Private,"Supply chain, logistics, & delivery",United States,"San Francisco, California, United States",01-01-2013,23-04-2019,,417300000,8,01-07-2013,02-12-2021,2,4,,,5000,No,7,2303,,3076,75,,101,6,,8,19,0,10,No
+KK Group,Private,E-commerce & direct-to-consumer,China,"Dongguan, Hebei, China",01-01-2014,23-10-2019,,612128607,5,09-04-2018,05-07-2021,,,,,250,No,6,2121,,1183,69,,38,5,,3,17,0,18,No
+KLOOK,Private,Travel,China,"Central, Hong Kong Island, Hong Kong",01-01-2014,07-08-2018,,721500000,7,01-12-2014,26-01-2021,0,1,,,5000,No,5,1679,,2248,55,,73,4,,6,14,0,11,No
+Knotel,M&A,Other,United States,"New York, New York, United States",01-01-2016,21-01-2019,21-08-2019,560000000,5,15-02-2016,21-08-2019,,,,,500,No,4,1116,212,1283,36,7,42,3,0,3,9,2,15,Yes
+Knowbox,Private,Edtech,China,"Beijing, Beijing, China",01-01-2014,30-05-2019,,305756292,6,19-07-2014,30-05-2019,,,,,500,No,6,1975,,1776,64,,58,5,,4,16,0,26,No
+Kuaishou/ Kuaishou Technology,IPO,Mobile & telecommunications,China,"Beijing, Beijing, China",01-01-2011,0,05-02-2021,4370000000,9,03-06-2012,01-01-2021,,,1.50E+11,5400000000,10001,No,   ,,,3134,,,102,,,8,0,0,19,Yes
+Kujiale,Private,Internet software & services,China,"Hangzhou, Zhejiang, China",01-01-2011,25-10-2019,,234835624,6,01-05-2013,25-10-2019,19,3,,,250,No,9,3219,,2368,105,,77,8,,6,26,0,19,No
+Lalamove,Private,"Supply chain, logistics, & delivery",China,"Hong Kong, Hong Kong Island, Hong Kong",01-12-2013,21-02-2019,,2476500000,9,03-11-2014,20-01-2021,,,,,1000,No,6,1908,,2270,62,,74,5,,6,16,0,9,No
+Leap Motor/ Leapmotor,Private,Auto & transportation,China,"Hangzhou, Zhejiang, China",24-12-2015,20-11-2018,,1067748549,4,29-01-2018,28-01-2021,0,9,,,1000,No,3,1062,,1095,34,,35,2,,2,9,0,15,No
+Lemonade,IPO,Fintech,United States,"New York, New York, United States",01-01-2015,11-04-2019,08-11-2021,481500000,13,20-06-2015,02-07-2020,0,9,1600000000,319000000,5000,No,5,1561,942,1839,51,30,60,4,2,5,13,8,18,Yes
+Lightricks,Private,Artificial intelligence,Israel,"Jerusalem, Yerushalayim, Israel",01-01-2013,31-07-2019,,335000000,5,12-08-2015,19-09-2021,2,47,,,500,No,7,2402,,2230,78,,73,6,,6,20,0,17,No
+LinkDoc Technology,Private,Health,China,"Beijing, Beijing, China",01-01-2014,05-07-2018,,253261047,4,01-01-2015,07-09-2020,,,,,100,No,5,1646,,2076,54,,68,4,,5,14,0,20,No
+Liquid/ Liquid Global,Private,Fintech,Japan,"Tokyo, Tokyo, Japan",01-05-2014,03-04-2019,02-02-2022,252640594,6,10-12-2014,25-08-2021,0,3,,,250,Yes,5,1798,1036,2450,59,33,80,4,2,6,15,8,16,No
+Lixiang Automotive/ Li Auto,IPO,Auto & transportation,China,"Beijing, Beijing, China",01-01-2015,28-06-2019,30-07-2020,1248779712,5,05-05-2016,19-08-2021,0,11,19228000000,1092500000,5000,No,5,1639,398,1932,53,13,63,4,1,5,13,3,10,Yes
+Loft,Private,E-commerce & direct-to-consumer,Brazil,"SÃƒÂ£o Paulo, Sao Paulo, Brazil",01-08-2018,03-01-2020,,788000000,7,01-01-2018,30-06-2021,,,,,1000,No,2,520,,1276,17,,41,1,,3,4,0,23,No
+Loggi,Acquired,"Supply chain, logistics, & delivery",Brazil,"SÃƒÂ£o Paulo, Sao Paulo, Brazil",20-06-2013,10-10-2018,05-06-2019,507001000,8,15-08-2013,01-03-2021,,,,,5000,Yes,6,1938,238,2755,63,7,90,5,0,7,16,2,9,Yes
+Luckin Coffee,IPO,Consumer & retail,China,"Xiamen, Fujian, China",01-10-2017,01-06-2018,17-05-2019,1575825105,6,15-04-2018,16-04-2021,0,18,5000000000,571200000,5000,No,1,243,350,1097,8,11,36,0,0,3,2,3,13,Yes
+Luoji Siwei,Private,Edtech,China,"Beijing, Beijing, China",01-01-2012,20-07-2017,,144180957,5,01-03-2013,19-07-2017,0,0,,,,Yes,6,2027,,1601,66,,52,5,,4,17,0,4,No
+Lyft,IPO,Auto & transportation,United States,"San Francisco, California, United States",22-05-2012,0,29-03-2019,4913606778,27,15-09-2017,01-03-2019,451,59,24000000000,2340000000,10000,No,   ,,,532,,,17,,,1,0,0,15,Yes
+Maimai,Private,Mobile & telecommunications,China,"Beijing, Beijing, China",01-01-2013,15-11-2017,,300000000,4,13-08-2013,21-08-2018,,,,,10,No,5,1779,,1834,58,,60,4,,5,15,0,21,No
+Medlinker,Acquired,Health,China,"Beijing, Beijing, China",01-01-2014,31-07-2018,12-12-2021,761235099,7,01-01-2015,12-12-2021,,,,,250,No,5,1672,1230,2537,54,40,83,4,3,6,14,10,14,Yes
+Meero,Private,Artificial intelligence,France,"Paris, Ile-de-France, France",01-01-2016,18-06-2019,,293434612,7,01-03-2016,14-09-2020,0,2,,,500,No,4,1264,,1658,41,,54,3,,4,10,0,13,No
+Meicai,Private,Mobile & telecommunications,China,"Beijing, Beijing, China",01-06-2014,22-06-2016,,1453352805,8,04-06-2014,08-10-2018,0,2,,,5000,No,3,752,,1587,24,,52,2,,4,6,0,11,No
+Mia.com,Private,E-commerce & direct-to-consumer,China,"Beijing, Beijing, China",01-01-2011,08-09-2015,,231600000,5,01-01-2013,26-10-2016,,,,,50,No,5,1711,,1394,56,,45,4,,3,14,0,13,No
+Miaoshou Doctor,Private,E-commerce & direct-to-consumer,China,"Beijing, Beijing, China",01-01-2015,27-06-2019,,946669842,7,01-06-2017,04-08-2021,,,,,50,Yes,5,1638,,1525,53,,50,4,,4,13,0,34,No
+MindMaze,Acquired,Health,Switzerland,"Lausanne, Vaud, Switzerland",24-05-2012,28-01-2016,13-11-2018,235659230,9,25-05-2010,07-10-2021,,,,,250,No,4,1344,1020,4153,44,33,136,3,2,11,11,8,16,Yes
+Momenta,Private,Artificial intelligence,China,"Beijing, Beijing, China",01-01-2016,17-10-2018,23-04-2019,1203150880,12,16-08-2016,04-11-2021,15,2,,,500,No,3,1020,188,1906,33,6,62,2,0,5,8,2,27,No
+monday.com,IPO,Internet software & services,Israel,"Tel Aviv, Tel Aviv, Israel",01-02-2012,0,10-06-2021,384100000,7,30-06-2012,10-06-2021,10,19,7500000000,574000000,1000,Yes,   ,,,3267,,,107,,,8,0,0,20,Yes
+Monzo,Private,Fintech,United Kingdom,"London, England, United Kingdom",01-02-2015,31-10-2018,,1123073045,21,15-02-2015,08-12-2021,0,3,,,5000,No,4,1368,,2488,44,,81,3,,6,11,0,25,No
+N26,Private,Fintech,Germany,"Berlin, Berlin, Germany",01-02-2013,10-01-2019,,1719059587,10,01-05-2013,18-10-2021,0,5,,,5000,No,6,2169,,3092,71,,101,5,,8,18,0,26,No
+Netskope,Private,Cybersecurity,United States,"Santa Clara, California, United States",08-10-2012,13-11-2018,,1041600000,12,01-01-2013,09-07-2021,58,7,,,5000,No,7,2227,,3111,73,,102,6,,8,18,0,15,No
+Next Insurance,Private,Fintech,United States,"Palo Alto, California, United States",01-01-2016,07-10-2019,,881000000,6,15-03-2016,01-04-2021,0,13,,,500,No,4,1375,,1843,45,,60,3,,5,11,0,15,No
+NIO,IPO,Auto & transportation,China,"Shanghai, Shanghai, China",01-11-2014,01-03-2017,12-09-2018,5434271280,10,18-03-2015,29-04-2020,179,57,6422000000,1000000000,10000,No,3,851,560,1869,28,18,61,2,1,5,7,5,10,Yes
+Northvolt,Private,Other,Sweden,"Stockholm, Stockholms Lan, Sweden",01-01-2016,12-06-2019,,6040092593,9,23-02-2018,09-06-2021,4,24,,,5000,No,4,1258,,1202,41,,39,3,,3,10,0,24,No
+Nubank,Acquired,Fintech,Brazil,"SÃƒÂ£o Paulo, Sao Paulo, Brazil",06-05-2013,01-03-2018,09-12-2021,2257602393,12,05-07-2013,08-06-2021,0,6,41000000000,2600000000,5000,No,5,1760,1379,2895,57,45,95,4,3,7,14,11,15,Yes
+Nuro,Private,Auto & transportation,United States,"Mountain View, California, United States",01-01-2016,11-02-2019,,2132148855,6,12-10-2016,02-11-2021,58,1,,,5000,Yes,4,1137,,1847,37,,60,3,,5,9,0,5,No
+Nxin,Private,Internet software & services,China,"Beijing, Beijing, China",01-01-2015,18-09-2018,,53044260,2,01-01-2017,18-09-2018,,,,,100,No,4,1356,,625,44,,20,3,,1,11,0,18,No
+OakNorth,Private,Fintech,United Kingdom,"London, England, United Kingdom",01-01-2015,12-10-2017,,1041034147,8,01-01-2015,08-02-2021,0,2,,,1000,No,3,1015,,2230,33,,73,2,,6,8,0,28,No
+OfferUp,Unexplained Exit,Mobile & telecommunications,United States,"Bellevue, Washington, United States",01-01-2011,09-08-2018,,380985067,10,29-05-2012,12-08-2021,1,8,,,500,No,8,2777,,3362,91,,110,7,,9,23,0,22,No
+Omio,Private,Travel,Germany,"Berlin, Berlin, Germany",01-03-2012,23-10-2018,,396000000,10,04-03-2013,24-08-2020,1,0,,,500,No,7,2427,,2730,79,,89,6,,7,20,0,7,No
+OneTrust,Private,Internet software & services,United States,"Atlanta, Georgia, United States",01-01-2016,11-07-2019,,926386816,5,11-07-2019,08-10-2021,229,41,,,5000,No,4,1287,,820,42,,26,3,,2,11,0,20,No
+OpenDoor Labs/ Opendoor,IPO,E-commerce & direct-to-consumer,United States,"San Francisco, California, United States",01-01-2014,30-11-2016,21-12-2020,1885950000,10,16-05-2014,21-12-2020,3,9,18000000000,1000000000,1000,No,3,1064,1482,2411,34,48,79,2,4,6,9,12,0,Yes
+Orbbec Technology/ Orbbec,Private,Hardware,China,"Shenzhen, Guangdong, China",01-01-2013,21-05-2018,,200000000,1,21-05-2018,21-05-2018,,,,,500,No,6,1966,,0,64,,0,5,,0,16,0,27,No
+Oscar Health,IPO,Health,United States,"New York, New York, United States",01-11-2012,20-04-2015,03-03-2021,1632500000,11,01-01-2013,17-12-2021,0,40,7920000000,1400000000,5000,No,3,900,2144,3272,29,70,107,2,5,8,7,18,31,Yes
+Outreach,Private,Internet software & services,United States,"Seattle, Washington, United States",01-01-2014,16-04-2019,,489018000,14,01-08-2011,03-11-2021,7,13,,,1000,No,6,1931,,3747,63,,123,5,,10,16,0,28,No
+Oyo Rooms/ OYO,Private,Travel,India,"Gurgaon, Haryana, India",01-01-2013,25-09-2018,,3076477508,22,15-10-2012,13-01-2022,0,35,,,10000,No,6,2093,,3377,68,,110,5,,9,17,0,6,No
+Pat McGrath Labs,Private,Consumer & retail,United States,"New York, New York, United States",01-10-2015,16-07-2018,,60000000,2,08-08-2016,16-07-2018,24,91,,,100,No,3,1019,,707,33,,23,2,,1,8,0,27,No
+Peloton,IPO,Consumer & retail,United States,"New York, New York, United States",01-01-2012,24-05-2017,25-09-2019,1869707000,9,01-02-2012,09-02-2021,22,24,8100000000,1160000000,5000,Yes,6,1970,854,3296,64,28,108,5,2,9,16,7,24,Yes
+Pendo,Private,Internet software & services,United States,"Raleigh, North Carolina, United States",01-10-2013,17-10-2019,,469500000,11,01-01-2014,11-11-2021,0,4,,,1000,No,7,2207,,2871,72,,94,6,,7,18,0,17,No
+Pinduoduo,IPO,Consumer & retail,China,"Shanghai, Shanghai, China",01-09-2015,0,26-07-2018,3800361337,6,01-09-2015,30-03-2021,0,1,24000000000,1630000000,5000,No,   ,,,2037,,,66,,,5,0,0,22,Yes
+Podium,Private,Internet software & services,United States,"Lehi, Utah, United States",01-01-2014,07-04-2020,,419120000,7,27-06-2014,15-11-2021,0,10,,,5000,No,7,2288,,2698,75,,88,6,,7,19,0,12,No
+Pony.ai,Private,Artificial intelligence,United States,"Fremont, California, United States",01-12-2016,11-07-2018,,1093000000,7,11-01-2017,08-02-2021,0,0,,,500,No,2,587,,1489,19,,48,1,,4,5,0,14,No
+Preferred Networks,Private,Artificial intelligence,Japan,"Tokyo, Tokyo, Japan",26-03-2014,17-05-2018,,16500000000,7,01-10-2014,25-06-2019,105,10,,,500,No,5,1513,,1728,49,,56,4,,4,12,0,15,No
+Quanergy Systems,Private,Auto & transportation,United States,"Sunnyvale, California, United States",01-11-2012,22-08-2016,,135308960,6,04-12-2013,29-10-2018,21,8,,,250,No,4,1390,,1790,45,,58,3,,4,11,0,27,No
+QuintoAndar,Private,E-commerce & direct-to-consumer,Brazil,"SÃƒÂ£o Paulo, Sao Paulo, Brazil",01-01-2012,09-09-2019,,755270292,8,01-08-2012,19-08-2021,,,,,5000,Yes,8,2808,,3305,92,,108,7,,9,23,0,4,No
+Qutoutiao,IPO,Media & Entertainment,China,"Shanghai, Shanghai, China",01-06-2016,15-03-2018,13-09-2018,497000000,5,29-09-2017,28-03-2019,,,1700000000,84000000,5000,No,2,652,182,545,21,5,17,1,0,1,5,1,20,Yes
+Rappi,Private,"Supply chain, logistics, & delivery",Colombia,"BogotÃƒÂ¡, Distrito Especial, Colombia",01-01-2015,31-08-2018,,2692005447,10,11-01-2015,16-07-2021,,,,,10000,Yes,4,1338,,2378,43,,78,3,,6,11,0,10,No
+Rapyd,Private,Fintech,United Kingdom,"London, England, United Kingdom",01-01-2016,03-12-2019,,770000000,6,01-06-2018,03-08-2021,,,,,500,No,4,1432,,1159,47,,38,3,,3,12,0,21,No
+Revolut,Private,Fintech,United Kingdom,"London, England, United Kingdom",01-01-2015,26-04-2018,,1710939790,16,28-06-2014,11-08-2021,0,3,,,,No,4,1211,,2601,39,,85,3,,7,10,0,35,No
+Revolution Precrafted/ Revolution,Private,Other,Philippines,"Makati, Manila, Philippines",01-12-2015,23-10-2017,,150318031,2,25-05-2007,20-02-2019,0,30,,,10000,No,2,692,,4289,22,,140,1,,11,6,0,21,No
+Workrise,Private,Internet software & services,United States,"Austin, Texas, United States",01-01-2014,15-03-2018,,752499542,8,04-06-2014,20-05-2021,2,7,,,1000,No,5,1534,,2542,50,,83,4,,6,13,0,25,No
+Ripple,Private,Fintech,United States,"San Francisco, California, United States",01-01-2012,20-12-2019,,293800000,14,02-10-2012,01-03-2021,15,30,,,1000,No,8,2910,,3072,95,,100,7,,8,24,0,25,No
+Riskified,IPO,Cybersecurity,United States,"New York, New York, United States",01-01-2012,05-11-2019,28-07-2021,228650000,6,31-01-2013,28-07-2021,0,0,3310000000,367500000,1000,No,   ,2865,631,3100,94,20,101,7,1,8,24,5,17,Yes
+Rivigo,Private,"Supply chain, logistics, & delivery",India,"Gurgaon, Haryana, India",01-01-2014,11-07-2019,,268701257,11,01-04-2015,02-11-2020,1,0,,,5000,No,6,2017,,2042,66,,67,5,,5,17,0,23,No
+Robinhood,IPO,Fintech,United States,"Menlo Park, California, United States",01-01-2013,26-04-2017,29-07-2021,5574325000,26,18-04-2013,01-02-2021,12,18,32011000000,2100000000,5000,Yes,   ,1576,1555,2846,51,51,93,4,4,7,13,13,16,Yes
+Root Insurance,IPO,Fintech,United States,"Columbus, Ohio, United States",01-03-2015,22-08-2018,28-10-2020,827500000,6,25-10-2016,26-01-2022,0,2,6732000000,724410000,1000,No,4,1270,798,1919,41,26,63,3,2,5,10,7,16,Yes
+Royole Corporation,Private,Hardware,China,"Shenzhen, Guangdong, China",01-01-2012,18-08-2015,,1052000000,7,01-04-2013,09-08-2018,9,1,,,1000,No,4,1325,,1956,43,,64,3,,5,11,0,20,No
+Rubrik,Private,Data management & analytics,United States,"Palo Alto, California, United States",01-01-2014,28-04-2017,,565100000,12,24-03-2015,24-11-2021,131,17,,,5000,No,4,1213,,2437,39,,80,3,,6,10,0,16,No
+Samsara Networks/ Samsara,Private,Hardware,United States,"San Francisco, California, United States",01-01-2015,22-03-2018,,930000000,7,19-05-2015,24-09-2020,15,0,10700000000,805000000,5000,No,4,1176,,1955,38,,64,3,,5,10,0,15,No
+Scale AI,Private,Artificial intelligence,United States,"San Francisco, California, United States",01-06-2016,05-08-2019,,602620000,8,22-08-2016,01-09-2021,1,3,,,500,No,4,1160,,1836,38,,60,3,,5,10,0,27,No
+Scopely,Private,Mobile & telecommunications,United States,"Culver City, California, United States",01-01-2011,29-10-2019,,998500000,9,19-09-2012,18-10-2021,0,4,,,5000,Yes,9,3223,,3316,105,,108,8,,9,26,0,25,No
+Segment,M&A,Data management & analytics,United States,"San Francisco, California, United States",01-09-2011,02-04-2019,12-10-2020,2837200000,9,01-09-2011,22-01-2020,0,4,,,34,No,8,2770,559,3065,91,18,100,7,1,8,23,5,19,Yes
+SenseTime,Private,Artificial intelligence,China,"Beijing, Beijing, China",01-01-2014,11-07-2017,,2640000000,9,01-08-2014,01-12-2020,29,0,16400000000,740000000,10000,No,4,1287,,2314,42,,76,3,,6,11,0,23,No
+SentinelOne,IPO,Cybersecurity,United States,"Mountain View, California, United States",01-01-2013,19-02-2020,30-06-2021,696520000,8,15-03-2013,11-11-2020,2,0,10000000000,1225000000,1000,No,8,2605,497,2798,85,16,91,7,1,7,21,4,22,Yes
+ServiceTitan,Private,Internet software & services,United States,"Glendale, California, United States",01-06-2012,14-11-2018,,1099777129,8,23-01-2014,30-06-2021,4,10,,,5000,No,7,2357,,2715,77,,89,6,,7,19,0,21,No
+FlashEx,Private,"Supply chain, logistics, & delivery",China,"Beijing, Beijing, China",01-01-2014,27-08-2018,,359000000,6,01-05-2014,30-03-2021,,,,,,No,5,1699,,2525,55,,82,4,,6,14,0,28,No
+Sila Nanotechnologies,Private,Other,United States,"Alameda, California, United States",01-01-2011,16-04-2019,,880000000,5,13-09-2011,26-01-2021,,,,,,No,9,3027,,3423,99,,112,8,,9,25,0,24,No
+SmartNews,Private,Mobile & telecommunications,Japan,"Tokyo, Tokyo, Japan",15-06-2012,05-08-2019,,410285114,6,14-08-2013,15-09-2021,0,3,,,250,No,8,2607,,2954,85,,97,7,,8,21,0,7,No
+SmileDirectClub,IPO,Health,United States,"Nashville, Tennessee, United States",01-12-2013,10-10-2018,12-09-2019,439500000,3,01-07-2016,10-10-2018,23,26,8900000000,1300000000,5000,No,5,1774,337,831,58,11,27,4,0,2,15,3,24,Yes
+Snowflake Computing/ Snowflake,IPO,Data management & analytics,United States,"San Mateo, California, United States",01-01-2012,25-01-2018,16-09-2020,1407899110,9,01-02-2012,16-03-2020,293,46,33203000000,3360000000,5000,No,7,2216,965,2966,72,31,97,6,2,8,18,8,17,Yes
+Snyk,Private,Cybersecurity,United Kingdom,"Boston, Massachusetts, United States",01-01-2015,21-01-2020,,1357000000,11,01-12-2015,30-09-2021,1,6,,,1000,No,6,1846,,2130,60,,69,5,,5,15,0,28,No
+SoFi,IPO,Fintech,United States,"San Francisco, California, United States",01-08-2011,03-02-2015,01-06-2021,2975062287,20,19-09-2011,07-01-2021,0,13,8650000000,2400000000,5000,No,4,1282,2310,3398,42,75,111,3,6,9,11,19,19,Yes
+Sonder,Private,Travel,United States,"San Francisco, California, United States",01-07-2014,11-07-2019,,529550000,9,07-07-2014,05-11-2020,0,2,,,1000,No,6,1836,,2313,60,,75,5,,6,15,0,16,No
+SouChe Holdings/ Souche,Private,E-commerce & direct-to-consumer,China,"Hangzhou, Zhejiang, China",01-12-2012,01-11-2017,,1213400000,7,07-12-2012,10-05-2018,,,,,5000,No,5,1796,,1980,59,,65,4,,5,15,0,14,No
+SoYoung Technology,IPO,Health,China,"Beijing, Beijing, China",01-01-2013,02-05-2019,03-06-2019,229000000,6,01-01-2014,04-09-2018,,,1064000000,179000000,1000,No,7,2312,32,1707,76,1,56,6,0,4,19,0,13,Yes
+StockX,Private,E-commerce & direct-to-consumer,United States,"Detroit, Michigan, United States",01-03-2015,26-06-2019,,690000000,10,31-10-2016,08-04-2021,0,21,,,5000,No,5,1578,,1620,51,,53,4,,4,13,0,20,No
+Swiggy,Private,"Supply chain, logistics, & delivery",India,"Bangalore, Karnataka, India",01-08-2014,21-06-2018,,4828380000,17,03-04-2015,24-01-2022,,,,,10000,No,4,1420,,2488,46,,81,3,,6,12,0,19,No
+Symphony/ Symphony Communication Services,Private,Fintech,United States,"Palo Alto, California, United States",30-09-2014,16-05-2017,,511000000,7,01-10-2014,10-12-2020,0,1,,,500,No,3,959,,2262,31,,74,2,,6,8,0,29,No
+TalkDesk,Private,Internet software & services,United States,"San Francisco, California, United States",01-01-2011,03-10-2018,,497450000,8,26-10-2011,12-08-2021,29,4,,,5000,No,8,2832,,3578,93,,117,7,,9,23,0,16,No
+Tempus,Private,Health,United States,"Chicago, Illinois, United States",01-01-2015,21-03-2018,,1070000000,11,21-09-2015,10-12-2020,57,15,,,5000,Yes,4,1175,,1907,38,,62,3,,5,10,0,16,No
+Terminus Technology/ Terminus Technologies,Private,Hardware,China,"Beijing, Beijing, China",01-01-2015,25-10-2018,,622561417,5,09-05-2016,13-09-2021,,,,,500,No,4,1393,,1953,45,,64,3,,5,11,0,22,No
+The RealReal,IPO,Consumer & retail,United States,"San Francisco, California, United States",01-03-2011,22-03-2019,28-06-2019,356874359,10,01-01-2012,01-03-2019,1,11,1654013420,300000000,5000,No,9,2943,98,2616,96,3,86,8,0,7,24,1,28,Yes
+ThoughtSpot,Private,Internet software & services,United States,"Sunnyvale, California, United States",01-06-2012,08-05-2018,,663700000,12,16-06-2012,15-11-2021,9,12,,,1000,Yes,6,2167,,3439,71,,112,5,,9,18,0,9,No
+Tiger Brokers,IPO,Fintech,China,"Beijing, Beijing, China",01-06-2014,11-07-2018,19-03-2019,139085080,5,19-05-2015,11-07-2018,,,1150000000,104000000,500,No,5,1501,251,1149,49,8,37,4,0,3,12,2,17,Yes
+Toast,IPO,Fintech,United States,"Boston, Massachusetts, United States",22-12-2011,10-07-2018,21-09-2021,901950000,7,30-07-2015,14-02-2021,40,15,20000000000,870000000,5000,No,7,2392,1169,2026,78,38,66,6,3,5,20,10,16,Yes
+Tongdun Technology,Private,Cybersecurity,China,"Hangzhou, Zhejiang, China",01-01-2013,25-04-2019,,251836983,6,11-11-2013,25-04-2019,0,3,,,1000,No,7,2305,,1991,75,,65,6,,5,19,0,23,No
+Traveloka,Private,Travel,Indonesia,"Jakarta, Jakarta Raya, Indonesia",01-01-2012,01-01-2017,,1170000000,6,12-11-2012,28-07-2020,,,,,5000,No,6,1827,,2815,60,,92,5,,7,15,0,22,No
+Tresata,Private,Fintech,United States,"Charlotte, North Carolina, United States",01-01-2011,10-10-2018,,51250000,3,31-05-2011,10-10-2018,0,7,,,50,No,8,2839,,2689,93,,88,7,,7,23,0,19,No
+TripActions,Private,Travel,United States,"Palo Alto, California, United States",01-01-2015,08-11-2018,,1536500000,13,01-05-2015,13-10-2021,2,3,,,5000,No,4,1407,,2357,46,,77,3,,6,12,0,21,No
+Tuhu,Private,Auto & transportation,China,"Shanghai, Shanghai, China",01-01-2011,15-09-2018,,874783159,7,01-01-2013,13-11-2019,,,,,1000,No,8,2814,,2507,92,,82,7,,6,23,0,16,No
+Tujia,Private,Travel,China,"Beijing, Beijing, China",01-12-2011,17-06-2015,,755000000,5,16-05-2012,09-10-2017,0,9,,,5000,No,4,1294,,1972,42,,64,3,,5,11,0,18,No
+TuSimple,IPO,Artificial intelligence,United States,"San Diego, California, United States",01-01-2015,13-02-2019,15-04-2021,648071101,11,01-01-2015,04-02-2021,128,2,8500000000,1350000000,500,Yes,5,1504,792,2226,49,26,73,4,2,6,12,7,20,Yes
+UBTech Robotics,Private,Hardware,China,"Shenzhen, Guangdong, China",01-01-2012,25-07-2016,,942800000,5,01-04-2015,09-11-2021,227,10,,,1000,No,5,1667,,2414,54,,79,4,,6,14,0,10,No
+UCloud Information Technology,IPO,Internet software & services,China,"Shanghai, Shanghai, China",01-01-2011,0,20-01-2020,314429434,6,28-06-2018,27-11-2021,,,4783980651,305922973,5000,No,   ,,,1248,,,40,,,3,0,0,15,Yes
+Udaan,Private,"Supply chain, logistics, & delivery",India,"Bangalore, Karnataka, India",01-01-2016,04-09-2018,,1453468863,11,23-11-2016,05-01-2022,,,,,10000,No,3,977,,1869,32,,61,2,,5,8,0,27,No
+Unisound,Private,Artificial intelligence,China,"Beijing, Beijing, China",01-01-2012,19-07-2018,,361442496,9,01-05-2012,17-04-2021,,,,,250,No,7,2391,,3273,78,,107,6,,8,20,0,0,No
+United Imaging Healthcare,Private,Health,China,"Shanghai, Shanghai, China",01-01-2011,15-09-2017,,519313689,1,15-09-2017,15-09-2017,533,78,,,5000,No,7,2449,,,80,,0,6,,0,20,0,8,No
+Uptake/ Uptake Technologies,Private,Artificial intelligence,United States,"Chicago, Illinois, United States",01-07-2014,27-10-2015,,218000000,4,05-03-2015,30-11-2017,82,42,,,500,No,2,483,,1001,15,,32,1,,2,4,0,16,No
+VAST Data,Private,Data management & analytics,United States,"New York, New York, United States",01-01-2016,16-04-2020,,263000000,6,02-01-2016,04-05-2021,0,0,,,500,No,5,1567,,1949,51,,64,4,,5,13,0,7,No
+Verkada,Private,Cybersecurity,United States,"San Mateo, California, United States",01-01-2016,29-01-2020,,138900000,5,21-09-2017,29-01-2020,0,3,,,1000,No,5,1489,,860,48,,28,4,,2,12,0,23,No
+Via,Private,Auto & transportation,United States,"New York, New York, United States",26-06-2012,30-03-2020,,777064111,8,26-03-2014,30-11-2021,16,5,,,5000,No,8,2834,,2806,93,,92,7,,7,23,0,29,No
+VIPKID,Private,Edtech,China,"Beijing, Beijing, China",01-01-2013,04-08-2016,,1055077215,10,06-01-2010,19-09-2019,2,0,,,10000,No,4,1311,,3543,43,,116,3,,9,11,0,21,No
+Toss,Private,Fintech,South Korea,"Seoul, Seoul-t'ukpyolsi, South Korea",01-01-2011,09-12-2018,,844200000,10,09-08-2014,22-06-2021,,,,,1000,Yes,8,2899,,2509,95,,82,7,,6,24,0,22,No
+Vroom,IPO,E-commerce & direct-to-consumer,United States,"New York, New York, United States",01-01-2013,0,08-06-2020,1309850000,10,07-07-2013,10-09-2020,0,18,2500000000,537625000,1000,No,   ,,,2622,,,86,,,7,0,0,21,Yes
+VTS,Private,Internet software & services,United States,"New York, New York, United States",01-01-2012,07-05-2019,,187360000,8,28-06-2012,07-05-2019,0,11,,,100,No,8,2683,,2504,88,,82,7,,6,22,0,23,No
+WalkMe,IPO,Internet software & services,United States,"San Francisco, California, United States",01-01-2011,13-11-2018,16-06-2021,307500000,10,12-04-2012,09-12-2019,,,307500000,307500000,5000,No,8,2873,946,2797,94,31,91,7,2,7,24,8,18,Yes
+wefox,Private,Fintech,Germany,"Berlin, Berlin, Germany",01-10-2015,05-03-2019,,918500000,6,20-07-2015,01-06-2021,0,8,,,1000,No,4,1251,,2143,41,,70,3,,5,10,0,12,No
+Weimob,IPO,Consumer & retail,China,"Shanghai, Shanghai, China",01-04-2013,0,18-01-2019,589145072,5,23-07-2014,07-08-2018,,,5632000000,756000000,5000,No,   ,,,1476,,,48,,,4,0,0,27,Yes
+WeLab,Private,Fintech,China,"Sheung Wan, Hong Kong Island, Hong Kong",01-01-2013,08-11-2017,,896000000,11,01-01-2013,06-12-2021,,,,,1000,No,5,1772,,3261,58,,107,4,,8,15,0,2,No
+Wildlife Studios,Private,Other,Brazil,"SÃƒÂ£o Paulo, Sao Paulo, Brazil",01-01-2011,05-12-2019,,180000000,2,05-12-2019,14-08-2020,,,,,1000,Yes,9,3260,,253,107,,8,8,,0,27,0,16,No
+WM Motor,Private,Auto & transportation,China,"Shanghai, Shanghai, China",01-01-2015,08-03-2019,,5316399622,8,24-08-2016,30-11-2021,0,4,,,5000,No,5,1527,,1924,50,,63,4,,5,13,0,25,No
+Xiaohongshu,Private,E-commerce & direct-to-consumer,China,"Shanghai, Shanghai, China",01-01-2013,31-03-2016,,917691787,8,01-09-2013,08-11-2021,,,,,5000,No,4,1185,,2990,38,,98,3,,8,10,0,19,No
+XiaoZhu/ Xiaozhu.com,Private,Travel,China,"Beijing, Beijing, China",01-01-2012,01-11-2017,,571599827,8,25-07-2012,10-10-2018,,,,,500,Yes,6,2131,,2268,70,,74,5,,6,18,0,6,No
+Yello Mobile,Private,Mobile & telecommunications,South Korea,"Seoul, Seoul-t'ukpyolsi, South Korea",01-08-2012,11-11-2014,,187200000,4,10-11-2014,11-11-2016,,,,,5000,No,3,832,,732,27,,24,2,,2,7,0,9,No
+Yidian Zixun,Private,Mobile & telecommunications,China,"Beijing, Beijing, China",01-07-2013,17-10-2017,,178200000,4,01-11-2014,14-11-2017,5,0,,,1000,No,5,1569,,1109,51,,36,4,,3,13,0,16,No
+Yijiupi,Private,Consumer & retail,China,"Wuhu, Anhui, China",01-09-2014,20-09-2018,,511361923,7,01-12-2014,11-02-2020,,,,,5000,No,5,1480,,1898,48,,62,4,,5,12,0,21,No
+Yitu Technology,Private,Artificial intelligence,China,"Shanghai, Shanghai, China",01-01-2012,08-03-2018,,411800418,13,22-02-2013,20-03-2020,,,,,1000,No,7,2258,,2583,74,,84,6,,7,19,0,0,No
+You & Mr Jones,Private,Other,United States,"New York, New York, United States",01-06-2015,19-11-2019,,,3,,,,,,,,No,5,1632,,0,53,,0,4,,0,13,0,14,No
+Youxia Motors,Private,Auto & transportation,China,"Minhang, Shanghai, China",01-01-2014,02-04-2018,,1334520263,4,01-01-2014,22-08-2018,,,,,250,No,5,1552,,1694,51,,55,4,,4,13,0,25,No
+Yuanfudao,Private,Edtech,China,"Beijing, Beijing, China",01-03-2012,31-05-2017,,4052000000,11,01-08-2012,24-12-2020,,,,,10001,No,6,1917,,3067,62,,100,5,,8,16,0,7,No
+Zenefits,Private,Fintech,United States,"San Francisco, California, United States",01-01-2013,06-05-2015,,584100000,5,25-02-2013,06-05-2015,0,1,,,1000,No,3,855,,800,28,,26,2,,2,7,0,15,No
+Zhaogang/ Zhaogang.com,Private,E-commerce & direct-to-consumer,China,"Yangpu, Hainan, China",01-01-2012,29-06-2017,,379357530,6,14-06-2012,05-07-2017,0,2,,,1000,No,6,2006,,1847,65,,60,5,,5,16,0,25,No
+Zhihu,IPO,Internet software & services,China,"Beijing, Beijing, China",26-01-2011,12-01-2017,26-03-2021,892350000,7,09-04-2011,12-08-2019,,,5310000000,523000000,5000,No,6,2178,1534,3047,71,50,100,5,4,8,18,13,30,Yes
+Zipline,Private,"Supply chain, logistics, & delivery",United States,"South San Francisco, California, United States",01-01-2014,20-05-2019,,483000000,8,02-08-2011,30-06-2021,19,5,,,1000,No,6,1965,,3620,64,,118,5,,9,16,0,6,No
+Ziroom,Private,E-commerce & direct-to-consumer,China,"Beijing, Beijing, China",18-10-2011,17-01-2018,,2120790266,4,16-01-2018,05-03-2020,,,,,10001,No,7,2283,,779,74,,25,6,,2,19,0,35,No
+Zoom,IPO,Internet software & services,United States,"San Jose, California, United States",01-01-2011,01-01-2017,18-04-2019,276000000,7,05-02-2010,04-11-2021,17,25,9229000000,751000000,5000,No,7,2192,837,4290,72,27,140,6,2,11,18,7,13,Yes
+Zoox,M&A,Auto & transportation,United States,"Foster City, California, United States",29-07-2014,27-05-2016,26-06-2020,1005000000,6,03-07-2015,21-10-2019,463,20,,,5000,No,2,668,1491,1571,21,48,51,1,4,4,5,12,9,Yes
+Zume,Private,Consumer & retail,United States,"Mountain View, California, United States",01-06-2015,01-11-2018,,423000000,7,08-09-2015,02-11-2018,56,15,,,250,No,4,1249,,1151,41,,37,3,,3,10,0,26,No
+Apeel Sciences,Private,Other,United States,"Goleta, California, United States",01-01-2012,20-05-2020,,640100564,9,01-11-2012,18-08-2021,37,23,,,1000,Yes,9,3062,,3212,100,,105,8,,8,25,0,27,No
+Amplitude,IPO,Data management & analytics,United States,"San Francisco, California, United States",01-01-2012,21-05-2020,28-09-2021,306900000,12,01-06-2012,09-06-2021,2,7,6400000000,,1000,No,9,3063,495,3295,100,16,108,8,1,9,25,4,17,Yes
+Keep,Private,Mobile & telecommunications,China,"Beijing, Beijing, China",01-01-2014,19-05-2020,,614000000,8,30-04-2015,10-01-2021,0,35,,,500,No,7,2330,,2082,76,,68,6,,5,19,0,10,No
+ASR Microelectronics,Private,Hardware,China,"Shanghai, Shanghai, China",01-04-2015,30-04-2020,,333867950,4,01-01-2017,05-05-2020,10,0,,,500,No,6,1856,,1220,60,,40,5,,3,15,0,25,No
+FiveTran,Private,Data management & analytics,United States,"Oakland, California, United States",01-01-2012,30-06-2020,,728108000,6,15-04-2013,20-09-2021,0,3,,,1000,No,9,3103,,3080,101,,101,8,,8,25,0,24,No
+FXiaoKe,Private,Mobile & telecommunications,China,"Beijing, Beijing, China",01-12-2011,02-07-2015,,283000000,9,04-07-2013,17-05-2021,,,,,500,No,4,1309,,2874,43,,94,3,,7,11,0,17,No
+Upgrade,Private,Fintech,United States,"San Francisco, California, United States",01-01-2016,12-02-2018,,587000000,8,02-03-2016,16-11-2021,0,1,,,500,No,3,773,,2085,25,,68,2,,5,6,0,10,No
+Cazoo,IPO,E-commerce & direct-to-consumer,United Kingdom,"London, England, United Kingdom",01-01-2018,23-06-2020,27-08-2021,1986961261,9,02-12-2018,10-02-2022,0,5,8000000000,1000000000,5000,Yes,3,904,430,1166,29,14,38,2,1,3,7,4,8,Yes
+Beike Zhaofang/ Ke.com,IPO,Internet software & services,China,"Beijing, Beijing, China",14-11-2017,18-07-2019,13-08-2020,3602538240,6,04-08-2017,05-03-2020,0,0,22500000000,2120000000,500,No,2,611,392,944,20,12,31,1,1,2,5,3,17,Yes
+Lilium Aviation/ Lilium,IPO,Other,Germany,"WeÃƒÅ¸ling, Bayern, Germany",01-01-2015,09-06-2020,15-09-2021,826400000,6,01-12-2015,15-09-2021,3,8,3300000000,584000000,1000,No,6,1986,463,2115,65,15,69,5,1,5,16,4,19,Yes
+Postman,Private,Internet software & services,United States,"San Francisco, California, United States",01-09-2014,11-06-2020,,433000000,5,26-05-2015,18-08-2021,0,14,,,500,No,6,2110,,2276,69,,74,5,,6,17,0,10,No
+Orca Bio,Private,Health,United States,"Menlo Park, California, United States",01-01-2016,17-06-2020,,192000000,3,01-01-2017,17-06-2020,11,0,,,,No,5,1629,,1263,53,,41,4,,3,13,0,10,No
+Ro,Private,Health,United States,"New York, New York, United States",01-01-2017,27-07-2020,,876100000,6,07-11-2017,23-03-2021,0,9,,,500,No,4,1303,,1232,42,,40,3,,3,11,0,26,No
+Remitly,IPO,Fintech,United States,"Seattle, Washington, United States",01-01-2011,10-07-2019,23-09-2021,505000000,13,01-08-2012,11-05-2021,0,7,6900000000,301000000,,No,9,3112,806,3205,102,26,105,8,2,8,26,7,25,Yes
+Qumulo,Private,Data management & analytics,United States,"Seattle, Washington, United States",01-01-2012,16-07-2020,,347300000,7,01-03-2012,16-07-2020,38,10,,,500,No,9,3119,,3059,102,,100,8,,8,26,0,32,No
+Eat Just,Private,Consumer & retail,United States,"San Francisco, California, United States",01-01-2011,30-11-2017,,464500000,17,01-01-2011,01-07-2021,2,15,,,101,No,7,2525,,3834,82,,126,6,,10,21,0,8,No
+Thrasio,Private,Other,United States,"Walpole, Massachusetts, United States",01-07-2018,15-07-2020,,3403000000,12,26-04-2019,04-01-2022,0,1,,,5000,No,3,745,,984,24,,32,2,,2,6,0,18,No
+Innovium,M&A,Hardware,United States,"San Jose, California, United States",18-12-2014,23-06-2020,03-08-2021,375313061,11,09-01-2015,01-01-2021,75,7,,,250,No,6,2014,406,2184,66,13,71,5,1,5,17,3,15,Yes
+XPeng Motors,IPO,Auto & transportation,China,"Guangzhou, Guangdong, China",01-01-2014,02-08-2018,27-08-2020,4565765338,9,01-03-2016,11-01-2021,73,10,8400000000,1495000000,5000,No,5,1674,756,1777,55,24,58,4,2,4,14,6,6,Yes
+Cambricon/ Cambricon Technologies,Unexplained Exit,Artificial intelligence,China,"Beijing, Beijing, China",01-03-2016,18-08-2017, 27-02-2020,200000000,3,01-08-2016,20-06-2018,145,14,,,1000,No,2,535,923,688,17,,22,1,,1,4,0,9,No
+Judo Bank,Private,Other,Australia,"Melbourne, Victoria, Australia",01-01-2016,29-07-2019,,1825578186,9,01-08-2018,21-06-2021,,,,,250,No,4,1305,,1055,42,,34,3,,2,11,0,9,No
+letgo,M&A,E-commerce & direct-to-consumer,United States,"New York, New York, United States",01-01-2015,28-09-2017,26-03-2020,975000000,5,03-09-2015,08-08-2018,,,,,250,Yes,3,1001,910,1070,32,29,35,2,2,2,8,7,14,Yes
+Lime,Unexplained Exit,Auto & transportation,United States,"San Francisco, California, United States",01-01-2017,09-07-2018,,1468000000,16,15-03-2017,04-11-2021,50,18,,,1000,No,2,554,,1695,18,,55,1,,4,5,0,25,No
+Postmates,M&A,"Supply chain, logistics, & delivery",United States,"San Francisco, California, United States",01-03-2011,18-09-2018,06-07-2020,762950000,11,01-05-2011,19-09-2019,9,1,,,10000,No,8,2758,657,3063,90,21,100,7,1,8,23,5,17,Yes
+Ucommune,IPO,Other,China,"Beijing, Beijing, China",01-01-2015,18-01-2017,18-11-2020,770872235,13,16-04-2015,18-11-2020,0,7,769000000,,500,No,3,748,1400,2043,24,46,67,2,3,5,6,12,15,Yes
+Vlocity,M&A,Internet software & services,United States,"San Francisco, California, United States",01-03-2014,26-03-2019,25-02-2020,162800000,4,01-03-2014,26-03-2019,0,0,,,1000,No,6,1851,336,1851,60,10,60,5,0,5,15,3,20,Yes
+Waterdrop,IPO,Fintech,China,"Beijing, Beijing, China",01-01-2016,20-08-2020,06-05-2021,67376364,9,11-05-2015,31-01-2022,0,64,360000000,,250,Yes,5,1693,259,2457,55,8,80,4,0,6,14,2,16,Yes
+Gong,Private,Artificial intelligence,United States,"San Francisco, California, United States",01-01-2015,12-08-2020,,583000000,7,21-03-2016,03-06-2021,,,,,1000,No,6,2050,,1900,67,,62,5,,5,17,0,23,No
+Farmers Business Network,Private,Other,United States,"San Carlos, California, United States",01-01-2014,03-08-2020,,870400000,10,10-04-2014,18-11-2021,1,32,,,1000,No,7,2406,,2779,79,,91,6,,7,20,0,26,No
+Blend,IPO,Fintech,United States,"San Francisco, California, United States",01-01-2012,24-06-2019,16-07-2021,665000000,10,01-06-2012,08-02-2021,3,5,3952670000,3952670000,1000,No,   ,2731,753,3174,89,24,104,7,2,8,22,6,14,Yes
+Rippling,Private,Internet software & services,United States,"San Francisco, California, United States",01-01-2016,04-08-2020,,447000000,4,14-03-2017,21-10-2021,0,0,,,501,No,5,1677,,1682,55,,55,4,,4,14,0,0,No
+Gymshark,Private,E-commerce & direct-to-consumer,United Kingdom,"Solihull, Solihull, United Kingdom",01-01-2012,14-08-2020,,271406141,1,14-08-2020,14-08-2020,0,21,,,1000,No,9,3148,,,103,,0,8,,0,26,0,366,No
+Patreon,Private,Internet software & services,United States,"San Francisco, California, United States",07-05-2013,02-09-2020,,413300000,10,,10-11-2021,7,17,,,1000,No,8,2675,,44510,87,,1462,7,,121,22,0,7,No
+Sema4,IPO,Health,United States,"Stamford, Connecticut, United States",01-01-2017,29-07-2020,23-07-2021,791000000,4,30-08-2019,18-01-2022,0,5,2000000000,793000000,1000,No,4,1305,359,872,42,11,28,3,0,2,11,3,20,Yes
+Trumid,Private,Fintech,United States,"New York, New York, United States",04-06-2014,15-07-2020,,660250000,8,04-03-2015,12-10-2021,0,18,,,250,No,7,2233,,2414,73,,79,6,,6,18,0,2,No
+Redis Labs/ Redis,Private,Data management & analytics,United States,"Mountain View, California, United States",01-01-2011,25-08-2020,,356800000,10,01-04-2021,16-12-2021,,,,,1000,No,10,3524,,259,115,,8,9,,0,29,0,20,No
+Lyra Health,Private,Health,United States,"Burlingame, California, United States",01-01-2015,25-08-2020,,910100000,7,26-06-2015,19-01-2022,2,1,,,1000,No,6,2063,,2399,67,,78,5,,6,17,0,16,No
+Unacademy,Private,Edtech,India,"Bangalore, Karnataka, India",01-01-2015,02-09-2020,,838500000,12,11-05-2016,01-08-2021,1,2,,,5000,Yes,6,2071,,1908,68,,62,5,,5,17,0,17,No
+Klaviyo,Private,Internet software & services,United States,"Boston, Massachusetts, United States",01-01-2012,17-11-2020,,678500000,5,26-08-2015,18-05-2021,0,8,,,1000,No,9,3243,,2092,106,,68,8,,5,27,0,22,No
+Better.com,Private,Fintech,United States,"New York, New York, United States",01-01-2016,10-11-2020,,905000000,10,01-02-2014,08-04-2021,0,1,,,10000,No,5,1775,,2623,58,,86,4,,7,15,0,18,No
+GoPuff,Private,E-commerce & direct-to-consumer,United States,"Philadelphia, Pennsylvania, United States",01-11-2013,08-10-2020,,3449710000,9,10-11-2015,11-12-2021,0,81,,,10000,No,7,2533,,2223,83,,73,6,,6,21,0,14,No
+MessageBird,Private,Mobile & telecommunications,Netherlands,"Amsterdam, Noord-Holland, The Netherlands",01-01-2011,08-10-2020,,1100120000,5,23-08-2016,28-04-2021,0,4,,,500,No,10,3568,,1709,117,,56,9,,4,29,0,23,No
+Kraken,Private,Fintech,United States,"San Francisco, California, United States",28-07-2011,25-06-2019,,136100000,30,25-03-2014,01-12-2021,0,6,,,5000,No,8,2889,,2808,94,,92,7,,7,24,0,16,No
+Relativity Space,Private,Other,United States,"Long Beach, California, United States",01-01-2015,23-11-2020,,1335720000,7,22-03-2016,08-06-2021,6,9,,,500,No,6,2153,,1904,70,,62,5,,5,18,0,15,No
+HEYTEA,Private,Other,China,"Shenzhen, Guangdong, China",01-01-2012,01-07-2019,,595145465,7,22-08-2016,14-07-2021,0,1,,,5000,No,8,2738,,1787,90,,58,7,,4,23,0,13,No
+Attentive,Private,Mobile & telecommunications,United States,"New York, New York, United States",01-01-2016,23-09-2020,,863000000,7,05-10-2016,24-03-2021,1,2,,,1000,No,5,1727,,1631,56,,53,4,,4,14,0,5,No
+Hopin,Private,Internet software & services,United Kingdom,"London, England, United Kingdom",05-06-2019,10-11-2020,,1021440519,7,10-10-2019,05-08-2021,0,17,,,1000,No,2,524,,665,17,,21,1,,1,4,0,8,No
+Unqork,Private,Fintech,United States,"New York, New York, United States",01-01-2017,06-10-2020,,365169951,5,15-03-2018,06-10-2020,1,4,,,500,No,4,1374,,936,45,,30,3,,2,11,0,25,No
+Creditas,Private,Fintech,Brazil,"SÃƒÂ£o Paulo, Sao Paulo, Brazil",16-04-2012,18-12-2020,,853950000,10,18-10-2013,25-01-2022,,,,,5000,No,9,3168,,3021,104,,99,8,,8,26,0,20,No
+Zymergen,IPO,Other,United States,"Emeryville, California, United States",01-01-2013,13-12-2018,22-04-2021,974140000,6,01-01-2014,08-09-2020,114,7,3000000000,500000000,1000,No,6,2172,861,2442,71,28,80,5,2,6,18,7,27,Yes
+Mirakl,Private,E-commerce & direct-to-consumer,France,"Paris, Ile-de-France, France",01-01-2011,22-09-2020,,948000000,5,16-11-2012,21-09-2021,0,4,,,500,No,10,3552,,3231,116,,106,9,,8,29,0,25,No
+Olive,Private,Internet software & services,United States,"Columbus, Ohio, United States",05-06-2012,01-12-2020,,856322171,9,04-04-2013,01-07-2021,0,5,,,1000,No,9,3101,,3010,101,,98,8,,8,25,0,29,No
+Arctic Wolf Networks/ Arctic Wolf,Private,Cybersecurity,United States,"Eden Prairie, Minnesota, United States",01-04-2012,22-10-2020,,498200000,8,01-05-2012,06-01-2022,1,6,,,1000,No,9,3126,,3537,102,,116,8,,9,26,0,18,No
+Forter,Private,Cybersecurity,United States,"New York, New York, United States",01-01-2013,19-11-2020,,525000000,6,25-03-2015,21-05-2021,,,,,500,Yes,8,2879,,2249,94,,73,7,,6,24,0,0,No
+Manner,Private,Other,China,"Shanghai, Shanghai, China",01-01-2015,24-12-2020,,,2,,,,,,,,No,6,2184,,0,71,,0,5,,0,18,0,9,No
+GalaxySpace,Private,Mobile & telecommunications,China,"Beijing, Beijing, China",01-01-2016,17-11-2020,,14480000,4,10-01-2018,18-11-2020,,,,,50,No,5,1782,,1043,58,,34,4,,2,15,0,13,No
+dLocal,IPO,Fintech,Uruguay,"Montevideo, NA - Uruguay, Uruguay",01-01-2016,0,02-06-2021,357000000,4,01-01-2017,02-04-2021,,,6060000000,617650000,500,No,   ,,,1552,#VALUE!,,51,,,4,,0,13,Yes
+Greenlight,Private,Fintech,United States,"Atlanta, Georgia, United States",01-01-2014,24-09-2020,,556500000,6,02-06-2017,07-09-2021,1,5,,,500,No,7,2458,,1558,80,,51,6,,4,20,0,26,No
+Whoop,Private,E-commerce & direct-to-consumer,United States,"Boston, Massachusetts, United States",01-01-2012,28-10-2020,,404751000,9,31-01-2013,30-08-2021,17,8,,,1000,No,9,3223,,3133,105,,102,8,,8,26,0,1,No
+Everly Health/ EverlyWell,Private,E-commerce & direct-to-consumer,United States,"Austin, Texas, United States",01-08-2015,03-12-2020,,200000000,8,17-09-2020,01-03-2021,,,,,101,No,6,1951,,165,64,,5,5,,0,16,0,17,No
+Cerebras Systems,Private,Hardware,United States,"Sunnyvale, California, United States",01-01-2016,14-11-2018,,720000000,7,05-05-2016,10-11-2021,55,3,,,500,Yes,3,1048,,2015,34,,66,2,,5,9,0,15,No
+Kavak,Private,E-commerce & direct-to-consumer,Mexico,"Mexico City, Distrito Federal, Mexico",01-01-2016,01-10-2020,,1583250000,6,30-08-2016,22-09-2021,,,,,5000,No,5,1735,,1849,57,,60,4,,5,14,0,12,No
+Virta Health,Private,Health,United States,"San Francisco, California, United States",20-05-2014,02-12-2020,,373000000,6,08-03-2017,19-04-2021,2,1,,,500,No,7,2388,,1503,78,,49,6,,4,20,0,20,No
+Zwift,Private,E-commerce & direct-to-consumer,United States,"Long Beach, California, United States",01-01-2014,16-09-2020,,619500000,8,31-01-2014,16-09-2020,1,26,,,5,No,7,2450,,2420,80,,79,6,,6,20,0,28,No
+Playco,Private,Other,Japan,"Tokyo, Tokyo, Japan",01-01-2020,21-09-2020,,100000000,7,05-05-2011,21-09-2020,,,,,100,No,1,264,,3427,8,,112,0,,9,2,0,20,No
+Razorpay,Private,Fintech,India,"Bangalore, Karnataka, India",01-12-2014,11-10-2020,,741600000,9,23-03-2015,19-12-2021,,,,,5000,No,6,2141,,2463,70,,80,5,,6,18,0,22,No
+Socar,Private,Auto & transportation,South Korea,"Busan, Pusan-jikhalsi, South Korea",10-03-2012,16-10-2020,,259529734,7,01-07-2013,16-09-2020,3,0,,,250,No,9,3142,,2634,103,,86,8,,7,26,0,17,No
+Tekion,Private,Internet software & services,United States,"San Ramon, California, United States",01-01-2016,21-10-2020,,435100000,6,11-03-2016,05-10-2021,10,4,,,5000,No,5,1755,,2034,57,,66,4,,5,14,0,14,No
+Eightfold.ai/ Eightfold,Private,Internet software & services,United States,"Santa Clara, California, United States",01-01-2016,27-10-2020,,396750000,5,01-09-2016,10-06-2021,1,3,,,500,No,5,1761,,1743,57,,57,4,,4,14,0,25,No
+Gousto,Private,"Supply chain, logistics, & delivery",United Kingdom,"London, England, United Kingdom",01-01-2012,03-11-2020,,361508835,14,23-09-2013,06-01-2022,0,4,,,1000,No,9,3229,,3027,106,,99,8,,8,27,0,18,No
+Cato Networks,Private,Cybersecurity,Israel,"Tel Aviv, Tel Aviv, Israel",01-02-2015,17-11-2020,,532000000,7,27-10-2015,07-12-2021,0,2,,,500,No,6,2116,,2233,69,,73,5,,6,17,0,18,No
+Chainalysis,Private,Fintech,United States,"New York, New York, United States",01-10-2014,23-11-2020,,366600000,9,01-07-2015,24-06-2021,0,4,,,500,No,7,2245,,2185,73,,71,6,,5,18,0,14,No
+Cityblock Health,Private,Health,United States,"Brooklyn, New York, United States",01-01-2017,10-12-2020,,891300000,8,01-03-2017,03-09-2021,0,1,,,500,No,4,1439,,1647,47,,54,3,,4,12,0,12,No
+ClickUp,Private,Internet software & services,United States,"San Diego, California, United States",01-01-2017,15-12-2020,,537500000,5,17-10-2017,27-10-2021,0,1,,,1000,Yes,4,1444,,1471,47,,48,3,,4,12,0,18,No
+BigID,Private,Cybersecurity,United States,"New York, New York, United States",01-02-2016,16-12-2020,,246099999,12,02-03-2016,03-02-2022,6,2,,,250,No,5,1780,,2164,58,,71,4,,5,15,0,16,No
+Boom Supersonic,Private,Other,United States,"Englewood, Colorado, United States",01-09-2014,16-12-2020,,241131868,8,15-12-2015,15-04-2021,2,5,,,250,No,7,2298,,1948,75,,64,6,,5,19,0,9,No
+AInnovation,Private,Artificial intelligence,China,"Haidian, Beijing, China",01-03-2018,16-12-2020,,131911652,5,01-05-2018,04-06-2021,0,1,1435808080,150631651,500,No,3,1021,,1130,33,,37,2,,3,8,0,16,No
+Qualia,Private,Fintech,United States,"San Francisco, California, United States",01-01-2015,21-12-2020,,160000000,6,30-09-2015,21-12-2020,0,2,,,500,No,6,2181,,1909,71,,62,5,,5,18,0,13,No
+Applied Intuition,Private,Data management & analytics,United States,"Sunnyvale, California, United States",01-01-2017,22-10-2020,,351500000,6,05-09-2017,11-11-2021,1,19,,,250,No,4,1390,,1528,45,,50,3,,4,11,0,9,No
+Dingdong Maicai,IPO,E-commerce & direct-to-consumer,China,"Shanghai, Shanghai, China",01-03-2014,12-05-2020,29-06-2021,1330000000,7,01-05-2018,12-05-2021,,,5539000000,96000000,50,No,7,2264,413,1107,74,13,36,6,1,3,19,3,19,Yes
+Dremio,Private,Data management & analytics,United States,"Santa Clara, California, United States",09-06-2015,06-01-2021,,410000000,6,25-09-2015,25-01-2022,1,3,,,250,No,6,2038,,2314,66,,76,5,,6,17,0,17,No
+Hinge Health,Private,Health,United States,"San Francisco, California, United States",01-01-2015,06-01-2021,,1026132500,9,30-01-2016,28-10-2021,2,0,,,5000,No,7,2197,,2098,72,,68,6,,5,18,0,26,No
+SalesLoft,Private,Internet software & services,United States,"Atlanta, Georgia, United States",01-01-2011,06-01-2021,22-12-2021,245700000,8,25-05-2012,06-01-2021,2,4,,,1000,No,11,3658,350,3148,120,11,103,10,0,8,30,3,7,No
+Starburst/ Starburst Data,Private,Data management & analytics,United States,"Boston, Massachusetts, United States",01-10-2017,06-01-2021,,414000000,4,20-11-2019,09-02-2022,0,2,,,500,No,4,1193,,812,39,,26,3,,2,10,0,11,No
+TELD/ Teld New Energy,Private,Fintech,China,"Qingdao Shi, Shandong, China",04-09-2014,16-12-2019,,433232771,4,19-08-2016,05-03-2020,,,,,500,No,6,1929,,1294,63,,42,5,,3,16,0,14,No
+VillageMD,M&A,Health,United States,"Chicago, Illinois, United States",01-01-2013,08-07-2020,14-10-2021,491000000,4,17-09-2015,08-07-2020,1,5,,,500,No,8,2745,463,1756,90,15,57,7,1,4,23,4,23,Yes
+Voodoo,Private,Other,France,"Paris, Ile-de-France, France",01-01-2013,17-08-2020,,516851844,6,01-11-2013,02-08-2021,0,1,,,500,No,8,2785,,2831,91,,93,7,,7,23,0,25,No
+Zapier,Private,Internet software & services,United States,"San Francisco, California, United States",01-10-2011,14-01-2021,,1362949,3,31-10-2012,15-04-2021,0,4,,,500,No,10,3393,,3088,111,,101,9,,8,28,0,15,No
+Hive Box,Private,"Supply chain, logistics, & delivery",China,"Shenzhen, Guangdong, China",06-06-2015,23-01-2018,,1106303367,3,05-01-2016,08-01-2021,45,9,,,5000,No,3,962,,1830,31,,60,2,,5,8,0,20,No
+Calendly,Private,Internet software & services,United States,"Atlanta, Georgia, United States",01-01-2013,26-01-2021,,350550000,2,25-04-2014,26-01-2021,0,2,,,500,No,9,2947,,2468,96,,81,8,,6,24,0,20,No
+Cockroach Labs,Private,Data management & analytics,United States,"New York, New York, United States",01-02-2015,12-01-2021,,633100000,9,01-04-2015,16-12-2021,0,9,,,250,No,6,2172,,2451,71,,80,5,,6,18,0,22,No
+Webflow,Private,Internet software & services,United States,"San Francisco, California, United States",01-01-2013,13-01-2021,,214900000,4,25-08-2013,13-01-2021,0,6,,,500,No,9,2934,,2698,96,,88,8,,7,24,0,33,No
+Mambu,Private,Fintech,Germany,"Berlin, Berlin, Germany",01-01-2011,06-01-2021,,439223328,7,26-01-2011,09-12-2021,0,8,,,1000,No,11,3658,,3970,120,,130,10,,10,30,0,14,No
+Digit Insurance,Private,Fintech,India,"Bengaluru, Karnataka, India",01-01-2016,15-01-2021,,530750058,8,01-06-2017,18-01-2022,,,,,5000,No,6,1841,,1692,60,,55,5,,4,15,0,13,No
+Workato,Private,Internet software & services,United States,"Mountain View, California, United States",01-01-2013,12-01-2021,,415000000,5,17-07-2017,10-11-2021,3,5,,,,No,9,2933,,1577,96,,51,8,,4,24,0,10,No
+Harness,Private,Artificial intelligence,United States,"San Francisco, California, United States",01-01-2016,14-01-2021,,195000000,4,24-10-2017,14-01-2021,2,2,,,500,No,6,1840,,1178,60,,38,5,,3,15,0,16,No
+Personio,Private,Internet software & services,Germany,"MÃƒÂ¼nchen, Bayern, Germany",01-08-2015,19-01-2021,,523988078,6,14-07-2016,11-10-2021,0,3,,,1000,No,6,1998,,1915,65,,62,5,,5,16,0,21,No
+Color,Private,Health,United States,"Burlingame, California, United States",01-01-2014,04-01-2021,,497000000,9,05-12-2014,09-11-2021,2,0,,,1000,No,8,2560,,2531,84,,83,7,,6,21,0,13,No
+K Health,Private,Health,United States,"New York, New York, United States",01-01-2016,19-01-2021,,271345000,8,04-11-2016,19-01-2021,1,3,,,500,No,6,1845,,1537,60,,50,5,,4,15,0,17,No
+OwnBackup,Private,Data management & analytics,United States,"Englewood Cliffs, New Jersey, United States",01-01-2012,28-01-2021,,507250000,8,02-02-2016,10-08-2021,1,2,,,500,No,10,3315,,2016,108,,66,9,,5,27,0,8,No
+Melio,Private,Fintech,Israel,"New York, New York, United States",01-07-2018,25-01-2021,,504000000,5,01-01-2019,14-09-2021,,,,,500,No,3,939,,987,30,,32,2,,2,8,0,10,No
+Quantum Metric,Private,Data management & analytics,United States,"Colorado Springs, Colorado, United States",01-01-2015,07-01-2021,,251000000,5,31-08-2017,07-01-2021,11,1,,,500,No,7,2198,,1225,72,,40,6,,3,18,0,20,No
+Lacework,Private,Cybersecurity,United States,"San Jose, California, United States",23-01-2015,07-01-2021,,1899000000,7,25-05-2015,02-02-2022,13,6,,,1000,No,6,2176,,2445,71,,80,5,,6,18,0,18,No
+Sennder,Private,"Supply chain, logistics, & delivery",Germany,"Berlin, Berlin, Germany",01-01-2015,14-01-2021,,340000000,9,01-08-2015,01-06-2021,0,6,,,1000,No,7,2205,,2131,72,,70,6,,5,18,0,4,No
+Sidecar Health,Private,Fintech,United States,"El Segundo, California, United States",01-01-2018,26-01-2021,,163000000,3,06-08-2019,26-01-2021,2,2,,,100,No,4,1121,,539,36,,17,3,,1,9,0,4,No
+Clubhouse,Private,Mobile & telecommunications,United States,"San Francisco, California, United States",15-03-2020,24-01-2021,,110000000,8,15-03-2020,11-07-2021,,,,,50,No,1,315,,483,10,,15,0,,1,3,0,,No
+DriveNets,Private,Internet software & services,Israel,"Ra'anana, HaMerkaz, Israel",01-01-2016,27-01-2021,,325000000,3,14-02-2021,27-01-2021,16,5,,,251,No,6,1853,,18,60,,,5,,,15,0,10,No
+Cedar,Private,Fintech,United States,"New York, New York, United States",01-01-2016,09-03-2021,,351000000,5,07-12-2017,09-03-2021,0,1,,,250,No,6,1894,,1188,62,,39,5,,3,16,0,12,No
+BlockFi,Private,Fintech,United States,"Jersey City, New Jersey, United States",01-08-2017,11-03-2021,,508681673,16,13-02-2018,03-01-2022,0,6,,,1000,No,4,1318,,1420,43,,46,3,,3,11,0,17,No
+Weee!,Private,"Supply chain, logistics, & delivery",United States,"Fremont, California, United States",01-06-2015,16-03-2021,,438750149,7,01-07-2015,16-03-2021,0,3,,,250,Yes,6,2115,,2085,69,,68,5,,5,17,0,26,No
+Highspot,Private,Internet software & services,United States,"Seattle, Washington, United States",01-01-2012,22-02-2021,,644850000,9,22-05-2013,13-01-2022,10,5,,,1000,No,10,3340,,3158,109,,103,9,,8,27,0,3,No
+C6 Bank,Private,Fintech,Brazil,"SÃƒÂ£o Paulo, Sao Paulo, Brazil",01-01-2018,02-12-2020,,2290147150,3,08-05-2020,28-06-2021,0,1,,,5000,No,3,1066,,416,35,,13,2,,1,9,0,8,No
+ATAI Life Sciences,IPO,Health,Germany,"Munich, Bayern, Germany",01-01-2018,03-03-2021,17-06-2021,347100000,10,07-06-2018,03-03-2021,0,4,2288535000,225000000,50,No,4,1157,106,1000,38,3,32,3,0,2,10,1,20,Yes
+Aledade,Private,Health,United States,"Bethesda, Maryland, United States",01-01-2014,19-01-2021,,294899959,7,18-06-2014,19-01-2021,,,,,500,No,8,2575,,2407,84,,79,7,,6,21,0,16,No
+Starling Bank,Private,Fintech,United Kingdom,"London, England, United Kingdom",01-01-2014,08-03-2021,,922023935,10,11-01-2016,19-04-2021,0,12,,,1000,No,8,2623,,1925,86,,63,7,,5,22,0,11,No
+Coalition,Private,Cybersecurity,United States,"San Francisco, California, United States",01-01-2017,16-03-2021,,520000000,6,01-03-2018,28-09-2021,0,7,,,250,Yes,5,1535,,1307,50,,42,4,,3,13,0,15,No
+BetterUp,Private,Internet software & services,United States,"San Francisco, California, United States",01-01-2013,25-02-2021,,566900000,6,06-11-2016,08-10-2021,2,10,,,1000,No,9,2977,,1797,97,,59,8,,4,24,0,17,No
+DispatchHealth,Private,Health,United States,"Denver, Colorado, United States",01-01-2013,03-03-2021,,403200000,5,12-08-2015,03-03-2021,0,2,,,1000,No,9,2983,,2030,98,,66,8,,5,25,0,3,No
+Wiz,Private,Cybersecurity,Israel,"Tel Aviv, Tel Aviv, Israel",01-01-2020,17-03-2021,,600000000,4,09-12-2020,11-10-2021,,,,,250,No,2,441,,306,14,,10,1,,0,4,0,9,No
+Dutchie,Private,E-commerce & direct-to-consumer,United States,"Bend, Oregon, United States",01-07-2017,16-03-2021,,603000000,5,24-09-2018,14-10-2021,0,3,,,1000,No,4,1354,,1116,44,,36,3,,3,11,0,23,No
+Clari,Private,Internet software & services,United States,"Sunnyvale, California, United States",01-01-2013,03-03-2021,,496000000,7,03-04-2014,19-01-2022,9,3,,,1000,No,9,2983,,2848,98,,93,8,,7,25,0,23,No
+Unite Us,Private,Health,United States,"New York, New York, United States",01-01-2013,17-03-2021,,195300000,5,21-08-2013,16-03-2021,0,5,,,,No,9,2997,,2764,98,,90,8,,7,25,0,0,No
+Uplight,Private,Other,United States,"Boulder, Colorado, United States",01-01-2019,03-03-2021,,Incomplete data,1,03-03-2021,03-03-2021,14,3,,,500,No,3,792,,0,26,,0,2,,0,7,0,6,No
+Yipin Shengxian/ Yipin Fresh,Private,E-commerce & direct-to-consumer,China,"Nanan, Chongqing, China",01-01-2013,11-03-2019,,658588320,3,23-08-2018,05-08-2020,0,6,,,10,No,7,2260,,713,74,,23,6,,1,19,0,10,No
+ECARX,Private,Auto & transportation,China,"Hangzhou, Zhejiang, China",04-05-2016,26-10-2020,,394323889,3,07-12-2017,25-02-2021,0,2,,,5000,No,5,1636,,1176,53,,38,4,,3,13,0,0,No
+Bordrin Motors,Private,Auto & transportation,China,"Nanjing, Jiangsu, China",01-01-2016,03-06-2019,,393425171,1,03-06-2019,03-06-2019,,,,,5000,No,4,1249,,0,41,,0,3,,0,10,0,6,No
+Ouyeel,Private,Internet software & services,China,"Baoshan, Shanghai, China",23-03-2016,27-06-2019,,431894101,2,01-06-2017,01-07-2019,,,,,500,No,4,1191,,760,39,,25,3,,2,10,0,33,No
+Kong,Private,Internet software & services,United States,"San Francisco, California, United States",01-01-2017,31-12-2020,,169101000,6,01-04-2010,08-02-2021,6,10,,,500,No,4,1460,,3966,47,,130,3,,10,12,0,31,No
+Yotpo,Private,Internet software & services,United States,"New York, New York, United States",01-01-2011,18-03-2021,,436000000,11,18-04-2011,09-09-2021,0,2,,,500,No,11,3729,,3797,122,,124,10,,10,31,0,13,No
+WeRide,Private,Auto & transportation,China,"Guangzhou, Guangdong, China",03-04-2017,23-12-2020,,312000000,9,09-10-2017,14-12-2021,1,5,,,1000,No,4,1360,,1527,44,,50,3,,4,11,0,20,No
+Innovaccer,Private,Health,United States,"San Francisco, California, United States",01-08-2014,19-02-2021,,379100000,7,14-05-2015,15-12-2021,7,14,,,5000,No,7,2394,,2407,78,,79,6,,6,20,0,26,No
+Socure,Private,Cybersecurity,United States,"New York, New York, United States",01-09-2012,16-03-2021,,646900000,14,01-02-2013,09-11-2021,12,5,,,500,No,9,3118,,3203,102,,105,8,,8,26,0,22,No
+Collective Health,Private,Fintech,United States,"San Mateo, California, United States",31-10-2013,17-06-2019,,719000000,6,01-01-2014,04-05-2021,4,3,,,1000,No,6,2055,,2680,67,,88,5,,7,17,0,32,No
+Dialpad,Private,Internet software & services,United States,"San Francisco, California, United States",01-04-2011,06-10-2020,,400000000,9,04-05-2011,16-12-2021,10,7,,,1000,No,10,3476,,3879,114,,127,9,,10,29,0,11,No
+Axonius,Private,Cybersecurity,United States,"New York, New York, United States",01-01-2017,01-03-2021,,465000000,6,06-09-2017,09-03-2021,2,0,,,250,No,5,1520,,1280,50,,42,4,,3,13,0,6,No
+BitPanda,Private,Fintech,Austria,"Vienna, Wien, Austria",01-01-2014,16-03-2021,,546013472,6,07-08-2019,17-08-2021,0,15,,,1000,No,8,2631,,741,86,,24,7,,2,22,0,18,No
+Mininglamp Technology/ MiningLamp,Private,Artificial intelligence,China,"Beijing, Beijing, China",01-04-2014,27-03-2019,,786629395,5,01-04-2014,27-03-2020,,,,,500,No,5,1821,,2187,59,,71,4,,5,15,0,8,No
+Modern Health,Private,Health,United States,"San Francisco, California, United States",01-01-2017,11-02-2021,,167400000,6,15-06-2018,11-02-2021,0,4,,,250,No,5,1502,,972,49,,31,4,,2,12,0,5,No
+Juanpi,Private,E-commerce & direct-to-consumer,China,"Wuhan, Hubei, China",01-09-2012,14-04-2016,,135701315,3,01-07-2014,15-04-2016,,,,,5000,Yes,4,1321,,654,43,,21,3,,1,11,0,13,No
+Zego,Private,Fintech,United Kingdom,"London, England, United Kingdom",18-04-2016,09-03-2021,,201738892,6,30-09-2016,10-03-2021,0,6,,,500,No,5,1786,,1622,58,,53,4,,4,15,0,11,No
+Lamabang,Private,E-commerce & direct-to-consumer,China,"Shenzhen, Guangdong, China",12-05-2012,06-03-2015,,130000000,4,01-08-2013,10-02-2017,,,,,250,No,3,1028,,1289,33,,42,2,,3,8,0,16,No
+Mobvoi,Private,Consumer & retail,China,"Beijing, Beijing, China",01-01-2012,06-04-2017,,252763410,6,01-01-2012,06-04-2017,8,17,,,500,No,6,1922,,1922,63,,63,5,,5,16,0,7,No
+HMD Global/ HMD,Private,Mobile & telecommunications,Finland,"Helsinki, Southern Finland, Finland",01-12-2016,21-05-2018,,330000000,2,21-05-2018,11-08-2020,626,19,,,1000,Yes,2,536,,813,17,,26,1,,2,4,0,0,No
+REEF Technology/ REEF,Private,"Supply chain, logistics, & delivery",United States,"Miami, Florida, United States",01-01-2013,10-12-2018,,1501900000,3,09-09-2020,03-11-2020,0,1,,,10001,No,6,2169,,55,71,,1,5,,0,18,0,12,No
+Savage X Fenty,Private,E-commerce & direct-to-consumer,United States,"El Segundo, California, United States",01-01-2017,16-03-2021,,310000000,7,01-01-2018,26-01-2022,0,7,,,250,No,5,1535,,1486,50,,48,4,,4,13,0,15,No
+Axiom Space,Private,Other,United States,"Houston, Texas, United States",01-01-2016,16-02-2021,,150000000,7,15-01-2016,16-02-2021,0,1,,,500,Yes,6,1873,,1859,61,,61,5,,5,15,0,16,No
+Locus Robotics,Private,Hardware,United States,"Wilmington, Massachusetts, United States",01-01-2014,17-02-2021,,299000000,6,26-05-2016,14-09-2021,64,8,,,250,No,8,2604,,1937,85,,63,7,,5,21,0,12,No
+Standard Cognition,Private,Artificial intelligence,United States,"San Francisco, California, United States",01-01-2017,17-02-2021,,238679194,10,21-08-2017,10-08-2021,39,5,,,250,No,5,1508,,1450,49,,47,4,,3,12,0,17,No
+Sentry,Private,Other,United States,"San Francisco, California, United States",01-02-2012,18-02-2021,,127000000,5,09-08-2015,18-02-2021,0,3,,,250,No,10,3305,,2020,108,,66,9,,5,27,0,8,No
+Infra.Market,Private,E-commerce & direct-to-consumer,India,"Thane, Maharashtra, India",15-07-2016,25-02-2021,,356584360,11,26-06-2019,10-02-2022,,,,,500,No,5,1686,,960,55,,31,4,,2,14,0,18,No
+Skydio,Private,"Supply chain, logistics, & delivery",United States,"Redwood City, California, United States",01-01-2014,25-02-2021,,340000000,8,15-01-2015,04-03-2021,51,8,,,250,No,8,2612,,2240,85,,73,7,,6,21,0,22,No
+Newsela,Private,Internet software & services,United States,"New York, New York, United States",01-01-2013,25-02-2021,,172156174,6,09-10-2013,25-02-2021,0,3,,,500,No,9,2977,,2696,97,,88,8,,7,24,0,16,No
+Papaya Global,Private,Internet software & services,United States,"New York, New York, United States",01-01-2016,04-03-2021,,444500000,7,15-06-2016,11-09-2021,,,,,500,No,6,1889,,1914,62,,62,5,,5,16,0,14,No
+Flutterwave,Private,Fintech,United States,"San Francisco, California, United States",01-01-2016,09-03-2021,,234743837,11,12-05-2016,09-03-2021,,,,,500,Yes,6,1894,,1762,62,,57,5,,4,16,0,18,No
+Aqua Security,Private,Cybersecurity,Israel,"Burlington, Massachusetts, United States",01-01-2015,10-03-2021,,265000000,7,08-10-2015,15-11-2021,7,5,,,500,No,7,2260,,2230,74,,73,6,,6,19,0,13,No
+Side,Private,Internet software & services,United States,"San Francisco, California, United States",01-01-2017,22-03-2021,,313500000,6,20-01-2017,28-06-2021,1,1,,,500,No,5,1541,,1620,50,,53,4,,4,13,0,19,No
+Lattice,Private,Internet software & services,United States,"San Francisco, California, United States",01-10-2015,23-03-2021,,328511845,9,30-09-2015,19-01-2022,0,1,,,,No,6,2000,,2303,65,,75,5,,6,16,0,26,No
+Evidation/ Evidation Health,Private,Health,United States,"San Mateo, California, United States",01-01-2012,22-03-2021,,259000000,10,01-08-2012,22-03-2021,1,20,,,500,No,10,3368,,3155,110,,103,9,,8,28,0,7,No
+Xingsheng Selected/ Xingsheng Youxuan,Private,E-commerce & direct-to-consumer,China,"Changshahsien, Hunan, China",01-01-2018,22-07-2020,,3894600000,9,17-09-2018,19-02-2021,,,,,10001,Yes,3,933,,886,30,,29,2,,2,8,0,0,No
+Notion Labs/ Notion,Private,Internet software & services,United States,"San Francisco, California, United States",01-01-2013,01-04-2020,,3432000000,5,,,,,,,,No,8,2647,,0,87,,0,7,,0,22,0,3,No
+Pacaso,Private,Fintech,United States,"San Francisco, California, United States",01-10-2020,24-03-2021,,1467000000,7,01-10-2020,14-09-2021,,,,,250,Yes,1,174,,348,5,,11,0,,0,1,0,29,No
+Wise,IPO,Fintech,United Kingdom,"London, England, United Kingdom",01-01-2011,26-01-2015,07-07-2021,1318626708,13,01-08-2011,20-03-2021,0,14,,,5000,No,5,1486,2354,3519,48,77,115,4,6,9,12,19,23,Yes
+6Sense,Private,Artificial intelligence,United States,"San Francisco, California, United States",01-01-2013,30-03-2021,,426000000,7,20-05-2014,20-01-2022,10,8,,,1000,No,9,3010,,2802,98,,92,8,,7,25,0,7,No
+ABL Space Systems,Private,Other,United States,"El Segundo, California, United States",01-08-2017,25-03-2021,,419000000,4,22-07-2019,25-10-2021,2,0,,,,Yes,4,1332,,826,43,,27,3,,2,11,0,15,No
+Alan,Private,Fintech,France,"Paris, Ile-de-France, France",01-02-2016,19-04-2021,,363865594,6,01-03-2016,19-04-2021,0,3,,,,No,6,1904,,1875,62,,61,5,,5,16,0,16,No
+Astranis Space Technologies/ Astranis,Private,Mobile & telecommunications,United States,"San Francisco, California, United States",01-01-2015,14-04-2021,,353499998,7,09-01-2016,14-04-2021,3,0,,,250,No,7,2295,,1922,75,,63,6,,5,19,0,23,No
+Benchling,Private,Internet software & services,United States,"San Francisco, California, United States",01-01-2012,14-04-2021,,411900000,8,20-02-2014,17-11-2021,,,,,,No,10,3391,,2827,111,,92,9,,7,28,0,20,No
+Bitso,Private,Fintech,Mexico,"Mexico City, Distrito Federal, Mexico",04-01-2014,05-05-2021,,378350000,9,01-09-2014,05-05-2021,0,5,,,500,No,8,2678,,2438,88,,80,7,,6,22,0,20,No
+Blockchain.com,Private,Fintech,United Kingdom,"London, England, United Kingdom",01-08-2011,17-02-2021,,490000000,7,13-08-2014,24-03-2021,,,,,1000,No,10,3488,,2415,114,,79,9,,6,29,0,12,No
+Cameo,Private,Internet software & services,United States,"Chicago, Illinois, United States",01-01-2017,30-03-2021,,165209970,8,28-02-2017,30-03-2021,0,6,,,500,No,5,1549,,1491,50,,49,4,,4,13,0,14,No
+Capsule,Private,Health,United States,"New York, New York, United States",01-05-2016,28-04-2021,,570000000,6,14-10-2016,28-04-2021,0,1,,,500,No,5,1823,,1657,59,,54,4,,4,15,0,28,No
+ChargeBee Technologies/ Chargebee,Private,Fintech,United States,"San Francisco, California, United States",15-06-2011,20-04-2021,,468170000,8,01-10-2012,01-02-2022,0,4,,,5000,No,10,3597,,3410,118,,112,9,,9,30,0,8,No
+Clearco,Private,Fintech,Canada,"Toronto, Ontario, Canada",01-10-2015,20-04-2021,,681535950,5,11-11-2018,08-07-2021,,,,,500,No,6,2028,,970,66,,31,5,,2,17,0,11,No
+Clearcover,Private,Fintech,United States,"Chicago, Illinois, United States",01-01-2016,13-04-2021,,304500000,4,19-09-2017,13-04-2021,0,1,,,500,Yes,6,1929,,1302,63,,42,5,,3,16,0,9,No
+CRED,Private,Fintech,India,"Bengaluru, Karnataka, India",01-01-2018,06-04-2021,,722205550,8,06-11-2018,19-10-2021,,,,,1000,No,4,1191,,1078,39,,35,3,,2,10,0,11,No
+Current,Private,Fintech,United States,"New York, New York, United States",21-06-2015,27-04-2021,,402400000,5,25-10-2017,27-04-2021,1,2,,,,No,6,2137,,1280,70,,42,5,,3,18,0,12,No
+Dapper Labs,Private,Fintech,Canada,"Vancouver, British Columbia, Canada",01-02-2018,30-03-2021,,607450000,9,27-02-2018,13-01-2022,6,12,,,250,No,4,1153,,1416,37,,46,3,,3,9,0,8,No
+Deel,Private,Fintech,United States,"San Francisco, California, United States",21-08-2018,21-04-2021,,629000000,6,18-03-2019,18-10-2021,0,0,,,500,No,3,974,,945,32,,31,2,,2,8,0,26,No
+Degreed,Private,Edtech,United States,"Pleasanton, California, United States",01-03-2012,13-04-2021,,390305796,16,30-11-2012,23-07-2021,0,10,,,1000,Yes,10,3330,,3157,109,,103,9,,8,27,0,22,No
+Fetch Rewards,Private,E-commerce & direct-to-consumer,United States,"Madison, Wisconsin, United States",01-01-2013,31-03-2021,,341849943,8,01-01-2014,31-03-2021,0,3,,,1000,No,9,3011,,2646,98,,86,8,,7,25,0,11,No
+Getir,Private,E-commerce & direct-to-consumer,Turkey,"Besiktas, Istanbul, Turkey",09-07-2015,26-03-2021,,1025000000,6,01-12-2017,04-06-2021,0,9,,,5000,No,6,2087,,1281,68,,42,5,,3,17,0,31,No
+Ginger,M&A,Health,United States,"San Francisco, California, United States",01-01-2011,24-03-2021,25-08-2021,220700000,11,01-01-2011,23-03-2021,21,1,,,500,No,11,3735,154,3734,122,5,122,10,0,10,31,1,3,Yes
+Gorillas,Private,E-commerce & direct-to-consumer,Germany,"Berlin, Berlin, Germany",01-05-2020,25-03-2021,,1335415310,5,12-08-2020,24-09-2021,0,1,,,5000,No,1,328,,408,10,,13,0,,1,3,0,10,No
+Groww,Private,Fintech,India,"Bengaluru, Karnataka, India",01-01-2016,07-04-2021,,393262674,6,09-07-2018,24-10-2021,,,,,1000,No,6,1923,,1203,63,,39,5,,3,16,0,19,No
+Hive,Private,Artificial intelligence,United States,"San Francisco, California, United States",01-01-2013,21-04-2021,,120700000,5,15-12-2014,21-04-2021,0,2,,,250,No,9,3032,,2319,99,,76,8,,6,25,0,21,No
+HoneyBook,Private,Internet software & services,United States,"San Francisco, California, United States",01-05-2013,04-05-2021,,498000000,9,22-09-2014,03-11-2021,0,6,,,250,No,9,2925,,2599,96,,85,8,,7,24,0,13,No
+J&T Express,Private,"Supply chain, logistics, & delivery",Indonesia,"Jakarta, Jakarta Raya, Indonesia",01-08-2015,07-04-2021,,4700000000,4,01-08-2017,24-11-2021,,,,,10001,Yes,6,2076,,1576,68,,51,5,,4,17,0,18,No
+Komodo Health,Private,Health,United States,"San Francisco, California, United States",01-01-2014,22-05-2020,,314000000,6,03-03-2015,22-03-2021,0,2,,,500,No,7,2333,,2211,76,,72,6,,6,19,0,14,No
+KRY,Private,Health,Sweden,"Stockholm, Stockholms Lan, Sweden",01-01-2015,27-04-2021,,568568065,6,17-08-2016,27-04-2021,0,7,,,1000,No,7,2308,,1714,75,,56,6,,4,19,0,17,No
+Meesho,Private,Internet software & services,India,"Bangalore, Karnataka, India",01-01-2015,05-04-2021,,1085200000,11,15-01-2016,20-10-2021,,,,,5000,Yes,7,2286,,2105,75,,69,6,,5,19,0,7,No
+Misfits Market,Private,E-commerce & direct-to-consumer,United States,"Pennsauken, New Jersey, United States",01-01-2018,21-04-2021,,526500000,4,11-06-2019,14-09-2021,0,3,,,250,No,4,1206,,826,39,,27,3,,2,10,0,22,No
+MOLOCO,Private,Artificial intelligence,United States,"Redwood City, California, United States",01-01-2013,29-04-2021,,191568746,6,01-06-2014,17-08-2021,1,1,,,250,No,9,3040,,2634,99,,86,8,,7,25,0,19,No
+Mux,Private,Internet software & services,United States,"San Francisco, California, United States",01-01-2015,30-04-2021,,173920000,8,01-01-2015,01-05-2021,3,2,,,250,No,7,2311,,2312,75,,76,6,,6,19,0,7,No
+Orca Security,Private,Cybersecurity,Israel,"Los Angeles, California, United States",01-01-2019,23-03-2021,,632000000,5,12-06-2019,05-10-2021,0,3,,,500,No,3,812,,846,26,,27,2,,2,7,0,16,No
+Outschool,Private,Edtech,United States,"San Francisco, California, United States",01-01-2015,14-04-2021,,240220000,6,22-05-2016,14-10-2021,0,4,,,250,Yes,7,2295,,1971,75,,64,6,,5,19,0,25,No
+Paxos,Private,Fintech,United States,"New York, New York, United States",01-01-2012,29-04-2021,,538477868,5,11-11-2013,20-01-2022,,,,,250,No,10,3406,,2992,111,,98,9,,8,28,0,12,No
+Pilot.com/ Pilot,Private,Fintech,United States,"San Francisco, California, United States",01-01-2016,26-03-2021,,161300000,4,28-02-2017,26-03-2021,0,3,,,250,No,6,1911,,1487,62,,48,5,,4,16,0,8,No
+Ramp Financial/ Ramp,Private,Fintech,United States,"New York, New York, United States",01-03-2019,29-03-2021,,810000000,7,01-08-2019,02-02-2022,0,0,,,250,Yes,3,759,,916,24,,30,2,,2,6,0,16,No
+Rec Room,Private,Internet software & services,United States,"Seattle, Washington, United States",01-04-2016,23-03-2021,,294000000,8,09-09-2016,20-12-2021,5,4,,,250,No,5,1817,,1928,59,,63,4,,5,15,0,10,No
+Rightway,Private,Health,United States,"New York, New York, United States",01-01-2017,30-03-2021,,130000000,4,09-11-2017,30-03-2021,0,1,,,250,No,5,1549,,1237,50,,40,4,,3,13,0,10,No
+SambaNova Systems,Private,Data management & analytics,United States,"Palo Alto, California, United States",01-01-2017,13-04-2021,,1141254686,6,08-11-2017,13-04-2021,8,1,,,500,No,5,1563,,1252,51,,41,4,,3,13,0,22,No
+Sendbird,Private,Mobile & telecommunications,United States,"San Mateo, California, United States",03-02-2013,06-04-2021,,220720000,8,19-03-2014,17-08-2021,1,3,,,250,No,9,2984,,2708,98,,88,8,,7,25,0,21,No
+ShareChat,Private,Internet software & services,India,"Bangalore, Karnataka, India",01-01-2015,08-04-2021,,1336889252,13,05-03-2015,10-02-2022,,,,,1000,No,7,2289,,2534,75,,83,6,,6,19,0,31,No
+Sift,Private,Artificial intelligence,United States,"San Francisco, California, United States",01-06-2011,22-04-2021,,156500000,7,01-09-2011,05-02-2022,24,3,,,250,No,10,3613,,3810,118,,125,9,,10,30,0,25,No
+Signifyd,Private,Fintech,United States,"San Jose, California, United States",01-08-2011,15-04-2021,,390000000,6,19-12-2012,15-04-2021,0,2,,,500,No,10,3545,,3039,116,,99,9,,8,29,0,9,No
+Skims,Private,E-commerce & direct-to-consumer,United States,"Culver City, California, United States",01-01-2019,09-04-2021,,399000000,3,01-01-2019,27-01-2022,2,8,,,500,No,3,829,,1122,27,,36,2,,3,7,0,25,No
+Sysdig,Private,Cybersecurity,United States,"San Francisco, California, United States",01-01-2013,28-04-2021,,729500000,8,30-06-2013,15-12-2021,12,11,,,500,Yes,9,3039,,3090,99,,101,8,,8,25,0,16,No
+Tonal,Private,E-commerce & direct-to-consumer,United States,"San Francisco, California, United States",01-01-2015,31-03-2021,,450000000,6,15-10-2015,31-03-2021,17,4,,,500,No,7,2281,,1994,74,,65,6,,5,19,0,18,No
+Urban Company,Private,E-commerce & direct-to-consumer,India,"Gurgaon, Haryana, India",10-11-2014,27-04-2021,,445920356,12,16-04-2015,02-06-2021,,,,,5000,No,7,2360,,2239,77,,73,6,,6,19,0,34,No
+Vectra Networks/ Vectra,Private,Artificial intelligence,United States,"San Jose, California, United States",01-01-2011,29-04-2021,,352540000,9,01-01-2010,29-04-2021,15,6,,,500,No,11,3771,,4136,123,,135,10,,11,31,0,6,No
+Yuanqi Senlin/ Genki Forest,Private,Consumer & retail,China,"Beijing, Beijing, China",01-01-2016,01-03-2020,,21309542,4,08-03-2019,30-03-2021,0,9,,,250,No,5,1521,,753,50,,24,4,,2,13,0,25,No
+Yunxuetang,Private,Edtech,China,"Suzhou, Jiangsu, China",01-01-2011,29-03-2021,,389035685,8,01-01-2013,29-03-2021,,,,,1000,No,11,3740,,3009,122,,98,10,,8,31,0,24,No
+Plaid Technologies/ Plaid,Private,Fintech,United States,"San Francisco, California, United States",01-01-2013,11-12-2018,,734300000,7,19-09-2013,25-08-2021,21,9,,,1000,Yes,6,2170,,2897,71,,95,5,,7,18,0,18,No
+Plume/ Plume Design,Private,Internet software & services,United States,"Palo Alto, California, United States",01-01-2015,23-02-2021,,747357341,7,01-09-2015,12-10-2021,55,37,,,500,No,7,2245,,2233,73,,73,6,,6,18,0,10,No
+Public/ Public.com,Private,Fintech,United States,"New York, New York, United States",01-09-2019,17-02-2021,,308500000,7,18-09-2018,06-12-2021,0,0,,,250,No,2,535,,1175,17,,38,1,,3,4,0,28,No
+The Zebra,Private,E-commerce & direct-to-consumer,United States,"Austin, Texas, United States",01-01-2012,12-04-2021,,256525063,8,10-02-2012,12-04-2021,3,5,,,500,No,10,3389,,3349,111,,110,9,,9,28,0,21,No
+Ada Support/ Ada,Private,Artificial intelligence,Canada,"Toronto, Ontario, Canada",01-01-2016,07-05-2021,,190620620,7,27-05-2014,07-05-2021,0,3,,,250,No,6,1953,,2537,64,,83,5,,6,16,0,3,No
+Amount,Private,Fintech,United States,"Chicago, Illinois, United States",01-01-2019,17-05-2021,,243000000,3,17-05-2020,17-05-2021,0,3,,,500,No,3,867,,365,28,,12,2,,1,7,0,17,No
+ASAPP,Private,Artificial intelligence,United States,"New York, New York, United States",01-01-2014,19-05-2021,,380000000,4,01-08-2015,19-05-2021,37,13,,,500,No,8,2695,,2118,88,,69,7,,5,22,0,14,No
+Back Market,Private,E-commerce & direct-to-consumer,France,"Paris, Ile-de-France, France",01-01-2014,18-05-2021,,1021016229,5,03-05-2017,11-01-2022,,,,,1000,No,8,2694,,1714,88,,56,7,,4,22,0,19,No
+Bowery Farming,Private,Other,United States,"New York, New York, United States",01-01-2014,25-05-2021,,938229584,8,28-09-2015,12-01-2022,1,3,,,500,No,8,2701,,2298,88,,75,7,,6,22,0,29,No
+CircleCI,Private,Internet software & services,United States,"San Francisco, California, United States",01-01-2011,11-05-2021,,315000000,11,01-04-2012,01-10-2021,0,4,,,1000,No,11,3783,,3470,124,,114,10,,9,31,0,5,No
+Cognite,Private,Data management & analytics,Norway,"Lysaker, Akershus, Norway",05-01-2017,19-05-2021,,338205015,4,12-06-2020,02-02-2022,0,5,,,1000,No,5,1595,,600,52,,19,4,,1,13,0,14,No
+ContentSquare,Private,Internet software & services,France,"Paris, Ile-de-France, France",01-01-2012,25-05-2021,,812000000,5,18-10-2016,25-05-2021,2,4,,,1000,No,10,3432,,1680,112,,55,9,,4,28,0,25,No
+Diamond Foundry,Private,Other,United States,"San Francisco, California, United States",01-01-2012,29-03-2021,,352699992,5,04-10-2012,29-03-2021,1,1,,,250,No,10,3375,,3098,110,,101,9,,8,28,0,10,No
+Extend,Private,Fintech,United States,"New York, New York, United States",01-04-2017,18-05-2021,,54000000,3,24-04-2018,22-07-2021,0,0,,,100,No,5,1508,,1185,49,,38,4,,3,12,0,12,No
+Groq,Private,Artificial intelligence,United States,"Mountain View, California, United States",01-01-2016,14-04-2021,,362275554,6,21-04-2017,14-04-2021,34,1,,,250,No,6,1930,,1454,63,,47,5,,3,16,0,12,No
+Handshake,Private,Internet software & services,United States,"San Francisco, California, United States",01-01-2013,12-05-2021,,23500000,6,20-11-2012,19-12-2016,0,2,,,100,No,9,3053,,1490,100,,48,8,,4,25,0,8,No
+Inari,Private,Other,United States,"Cambridge, Massachusetts, United States",01-01-2016,12-05-2021,,382000000,4,09-08-2018,12-05-2021,12,9,,,250,No,6,1958,,1007,64,,33,5,,2,16,0,27,No
+Loom,Private,Internet software & services,United States,"San Francisco, California, United States",01-09-2016,20-05-2021,,203550000,7,22-03-2012,20-05-2021,3,1,,,250,Yes,5,1722,,3346,56,,109,4,,9,14,0,25,No
+MasterClass,Private,Edtech,United States,"San Francisco, California, United States",01-01-2012,13-05-2021,,461400000,10,23-02-2013,01-07-2021,0,1,,,500,No,10,3420,,3050,112,,100,9,,8,28,0,19,No
+Moglix,Private,E-commerce & direct-to-consumer,Singapore,"Singapore, Central Region, Singapore",01-01-2015,17-05-2021,,471208452,8,30-10-2015,27-01-2022,,,,,1000,No,7,2328,,2281,76,,74,6,,6,19,0,3,No
+Pipe,Private,Fintech,United States,"Miami, Florida, United States",01-08-2019,19-05-2021,,316000000,4,25-02-2020,31-03-2021,,,,,50,No,2,657,,400,21,,13,1,,1,5,0,0,No
+Printful,Private,Other,United States,"Charlotte, North Carolina, United States",16-07-2013,24-05-2021,,130000000,1,24-05-2021,24-05-2021,,,,,5000,No,8,2869,,0,94,,0,7,,0,24,0,4,No
+ReCharge,Private,Fintech,United States,"Santa Monica, California, United States",01-01-2014,06-05-2021,,277000000,2,01-01-2020,06-05-2021,,,,,500,No,8,2682,,491,88,,16,7,,1,22,0,6,No
+SaltPay,Private,Fintech,United Kingdom,"London, England, United Kingdom",01-01-2019,23-04-2021,,1090000000,4,10-01-2020,15-11-2021,,,,,1000,No,3,843,,675,27,,22,2,,1,7,0,22,No
+Snapdocs,Private,Fintech,United States,"San Francisco, California, United States",01-01-2012,25-05-2021,,253000054,6,25-03-2014,25-05-2021,1,9,,,250,No,10,3432,,2618,112,,86,9,,7,28,0,13,No
+SpotOn,Private,Fintech,United States,"San Francisco, California, United States",01-01-2017,26-05-2021,,628000000,7,01-04-2017,13-09-2021,0,5,,,5000,No,5,1606,,1626,52,,53,4,,4,13,0,16,No
+Sunbit,Private,Fintech,United States,"Los Angeles, California, United States",01-01-2016,20-05-2021,,209970000,7,01-01-2016,20-05-2021,1,7,,,250,No,6,1966,,1966,64,,64,5,,5,16,0,14,No
+TensTorrent,Private,Artificial intelligence,Canada,"Toronto, Ontario, Canada",01-03-2016,05-05-2021,,234549999,6,13-10-2016,20-05-2021,8,0,,,250,Yes,6,1891,,1680,62,,55,5,,4,16,0,9,No
+Trade Republic,Private,Fintech,Germany,"Berlin, Berlin, Germany",01-01-2015,20-05-2021,,995500000,4,18-04-2018,20-05-2021,0,5,,,500,No,7,2331,,1128,76,,37,6,,3,19,0,6,No
+Vise,Private,Fintech,United States,"New York, New York, United States",01-10-2016,18-05-2021,,128000000,4,15-05-2019,18-05-2021,0,1,,,100,No,5,1690,,734,55,,24,4,,2,14,0,28,No
+Harry's Razor Company/ Harry's,Private,Consumer & retail,United States,"New York, New York, United States",01-01-2013,16-02-2018,,792399992,10,01-08-2012,11-01-2022,27,34,,,,No,6,1872,,3450,61,,113,5,,9,15,0,26,No
+Shift Technology,Private,Artificial intelligence,France,"Paris, Ile-de-France, France",01-03-2013,05-05-2021,,544987263,10,01-03-2013,02-11-2021,0,2,,,500,No,9,2987,,3168,98,,104,8,,8,25,0,6,No
+Zeta,Private,Fintech,United States,"San Francisco, California, United States",01-01-2015,24-05-2021,,310000000,2,23-07-2019,24-05-2021,,,,,1000,No,7,2335,,671,76,,22,6,,1,19,0,21,No
+Aircall,Private,Internet software & services,United States,"Paris, Ile-de-France, France",01-06-2014,23-06-2021,,225550000,9,01-06-2014,23-06-2021,0,2,,,500,No,8,2579,,2579,84,,84,7,,7,21,0,25,No
+Alation,Private,Internet software & services,United States,"Redwood City, California, United States",12-12-2012,03-06-2021,,191950000,5,01-03-2013,03-06-2021,5,4,,,1000,No,9,3095,,3016,101,,99,8,,8,25,0,3,No
+Amber Group,Private,Fintech,China,"Hong Kong, Hong Kong Island, Hong Kong",01-01-2017,21-06-2021,,128000000,2,14-02-2020,20-01-2021,0,12,,,500,No,5,1632,,341,53,,11,4,,0,13,0,7,No
+Aura,Private,Cybersecurity,United States,"Burlington, Massachusetts, United States",01-01-2019,09-06-2021,,500000000,3,15-07-2019,19-10-2021,,,,,1000,No,3,890,,827,29,,27,2,,2,7,0,13,No
+Bought By Many,Private,Fintech,United Kingdom,"London, England, United Kingdom",10-09-2012,01-06-2021,,482983919,6,16-01-2017,01-06-2021,0,6,,,500,No,9,3186,,1597,104,,52,8,,4,26,0,25,No
+Bringg,Private,"Supply chain, logistics, & delivery",Israel,"Tel Aviv, Tel Aviv, Israel",01-01-2013,16-06-2021,,184500000,8,01-01-2013,16-06-2021,3,2,,,250,No,9,3088,,3088,101,,101,8,,8,25,0,10,No
+BrowserStack,Private,Internet software & services,Ireland,"Dublin, Dublin, Ireland",01-09-2011,16-06-2021,,250000000,2,30-01-2018,16-06-2021,0,4,,,1000,No,10,3576,,1233,117,,40,9,,3,29,0,20,No
+Bunq,Private,Fintech,Netherlands,"Amsterdam, Noord-Holland, The Netherlands",01-01-2012,18-06-2021,,237900000,5,31-12-2014,08-07-2021,1,8,,,250,No,10,3456,,2381,113,,78,9,,6,28,0,18,No
+Carro,Private,E-commerce & direct-to-consumer,Singapore,"Singapore, Central Region, Singapore",01-01-2015,14-06-2021,,705116000,10,05-11-2015,20-12-2021,,,,,500,No,7,2356,,2237,77,,73,6,,6,19,0,4,No
+Cerebral,Private,Health,United States,"San Francisco, California, United States",08-01-2020,10-06-2021,,462000000,2,07-10-2020,08-12-2021,0,0,,,,No,2,519,,427,17,,14,1,,1,4,0,0,No
+Chipper Cash,Private,Fintech,United States,"San Francisco, California, United States",01-01-2018,01-06-2021,,302200000,7,,,,,,,250,No,4,1247,,0,41,,0,3,,0,10,0,16,No
+Claroty,Private,Cybersecurity,United States,"New York, New York, United States",01-05-2015,17-06-2021,,640000000,5,13-09-2016,08-12-2021,,,,,500,No,7,2239,,1912,73,,62,6,,5,18,0,25,No
+Clip,Private,Fintech,Mexico,"Mexico City, Distrito Federal, Mexico",28-09-2012,10-06-2021,,403680615,10,01-03-2013,10-06-2021,,,,,500,Yes,9,3177,,3023,104,,99,8,,8,26,0,6,No
+Dream Games,Private,Mobile & telecommunications,Turkey,"Istanbul, Istanbul, Turkey",01-01-2019,30-06-2021,,467500000,4,20-11-2019,18-01-2022,,,,,250,No,3,911,,790,29,,25,2,,2,7,0,10,No
+EcoFlow,Private,Hardware,China,"San Francisco, California, United States",01-11-2016,10-06-2021,,114395255,4,27-04-2018,01-09-2021,,,,,500,No,5,1682,,1223,55,,40,4,,3,14,0,0,No
+Enflame,Private,Hardware,China,"Shanghai, Shanghai, China",01-01-2018,05-01-2021,,472292396,6,,,,,,,250,Yes,4,1100,,0,36,,0,3,,0,9,0,21,No
+Exabeam,Private,Cybersecurity,United States,"Foster City, California, United States",01-01-2013,01-06-2021,,390000000,7,10-06-2014,01-06-2021,13,3,,,1000,No,9,3073,,2548,101,,83,8,,6,25,0,0,No
+Fiture,Private,Health,China,"Chengdu, Sichuan, China",01-01-2019,14-04-2021,,392250000,5,15-08-2021,14-09-2021,,,,,,No,3,834,,30,27,,0,2,,0,7,0,9,No
+Flash Express,Private,"Supply chain, logistics, & delivery",Thailand,"Bangkok, Krung Thep, Thailand",01-01-2017,01-02-2021,,350000000,3,21-05-2018,07-06-2021,,,,,10001,No,5,1492,,1113,49,,36,4,,3,12,0,14,No
+Forto,Private,"Supply chain, logistics, & delivery",Germany,"Berlin, Berlin, Germany",01-01-2016,21-06-2021,,343383184,5,21-09-2016,21-06-2021,0,7,,,1000,No,6,1998,,1734,65,,57,5,,4,16,0,25,No
+G2,Private,Internet software & services,United States,"Chicago, Illinois, United States",01-05-2012,22-06-2021,,257572384,7,18-02-2013,22-06-2021,0,4,,,1000,No,10,3339,,3046,109,,100,9,,8,27,0,14,No
+GoStudent,Private,Edtech,Austria,"Vienna, Wien, Austria",01-01-2016,22-06-2021,,686338907,8,19-04-2017,11-01-2022,0,2,,,5000,No,6,1999,,1728,65,,56,5,,4,16,0,17,No
+Guideline,Private,Fintech,United States,"San Mateo, California, United States",01-01-2015,16-06-2021,,339000000,6,17-08-2015,16-06-2021,0,2,,,,No,7,2358,,2130,77,,69,6,,5,19,0,10,No
+IRL,Private,Internet software & services,United States,"San Francisco, California, United States",01-01-2017,15-06-2021,,197000000,4,01-01-2018,15-06-2021,,,,,50,No,5,1626,,1261,53,,41,4,,3,13,0,24,No
+Iterable,Private,Internet software & services,United States,"San Francisco, California, United States",01-01-2013,15-06-2021,,342200000,7,01-05-2013,15-06-2021,0,1,,,1000,No,9,3087,,2967,101,,97,8,,8,25,0,28,No
+JoyTunes,Private,Edtech,Israel,"Tel Aviv, Tel Aviv, Israel",01-07-2011,21-06-2021,,92000000,6,01-01-2012,21-06-2021,2,1,,,250,No,10,3643,,3459,119,,113,9,,9,30,0,25,No
+Ledger,Private,Hardware,France,"Paris, Ile-de-France, France",01-01-2014,10-06-2021,,467959856,8,01-03-2013,10-06-2021,4,9,,,100,No,8,2717,,3023,89,,99,7,,8,22,0,25,No
+LetsGetChecked,Private,Health,Ireland,"New York, New York, United States",01-01-2015,07-06-2021,,263000000,4,28-03-2013,08-06-2021,,,,,1000,No,7,2349,,2994,77,,98,6,,8,19,0,23,No
+Morning Consult,Private,Internet software & services,United States,"Washington, District of Columbia, United States",01-10-2014,08-06-2021,,91030000,3,01-12-2013,08-06-2021,0,11,,,1000,No,7,2442,,2746,80,,90,6,,7,20,0,7,No
+Moveworks,Private,Artificial intelligence,United States,"Mountain View, California, United States",01-01-2016,30-06-2021,,305000000,3,18-04-2019,30-06-2021,14,2,,,500,No,6,2007,,804,65,,26,5,,2,16,0,11,No
+Next Silicon/ NextSilicon,Private,Hardware,Israel,"Tel Aviv-yafo, Tel Aviv, Israel",01-01-2018,14-06-2021,,202600000,4,05-12-2017,14-06-2021,8,8,,,250,No,4,1260,,1287,41,,42,3,,3,10,0,19,No
+Nykaa,IPO,E-commerce & direct-to-consumer,India,"Mumbai, Maharashtra, India",01-01-2012,01-04-2020,10-11-2021,148458615,13,03-07-2014,26-11-2020,,,9.64E+11,53520000000,5000,No,9,3013,588,2338,99,19,76,8,1,6,25,5,17,Yes
+Project44,Private,"Supply chain, logistics, & delivery",United States,"Chicago, Illinois, United States",01-01-2014,01-06-2021,,817500000,8,01-05-2016,11-01-2022,0,10,,,1000,Yes,8,2708,,2081,89,,68,7,,5,22,0,19,No
+Scalable Capital,Private,Fintech,Germany,"Munich, Bayern, Germany",12-12-2014,08-06-2021,,300580000,6,01-04-2015,07-06-2021,0,3,,,500,No,7,2370,,2259,77,,74,6,,6,19,0,21,No
+ShipBob,Private,"Supply chain, logistics, & delivery",United States,"Chicago, Illinois, United States",01-01-2014,29-06-2021,,330500000,8,19-08-2014,29-06-2021,0,3,,,1000,No,8,2736,,2506,89,,82,7,,6,22,0,24,No
+Shippo,Private,"Supply chain, logistics, & delivery",United States,"San Francisco, California, United States",01-01-2013,02-06-2021,,154275000,10,01-12-2013,01-12-2021,1,2,,,250,No,9,3074,,2922,101,,96,8,,8,25,0,28,No
+SmartAsset,Private,Fintech,United States,"New York, New York, United States",01-01-2012,24-06-2021,,161431095,8,14-08-2012,01-11-2021,0,3,,,250,Yes,10,3462,,3366,113,,110,9,,9,28,0,16,No
+Stash/ Stash Financial,Private,Fintech,United States,"New York, New York, United States",19-02-2015,03-02-2021,,427372000,10,12-08-2015,03-02-2021,1,48,,,500,No,6,2176,,2002,71,,65,5,,5,18,0,11,No
+Thirty Madison,Private,Health,United States,"New York, New York, United States",01-01-2017,02-06-2021,,209750000,5,25-11-2017,02-06-2021,0,11,,,250,No,5,1613,,1285,53,,42,4,,3,13,0,18,No
+Tractable,Private,Artificial intelligence,United Kingdom,"London, England, United Kingdom",01-01-2014,16-06-2021,,119900000,8,11-06-2015,16-06-2021,13,0,,,250,No,8,2723,,2197,89,,72,7,,6,22,0,13,No
+Transmit Security,Private,Cybersecurity,Israel,"Boston, Massachusetts, United States",01-01-2014,22-06-2021,,583000000,2,12-01-2017,22-06-2021,,,,,500,No,8,2729,,1622,89,,53,7,,4,22,0,31,No
+Trulioo,Private,Cybersecurity,Canada,"Vancouver, British Columbia, Canada",01-01-2011,07-06-2021,,474765412,8,01-01-2011,07-06-2021,4,8,,,1000,No,11,3810,,3810,125,,125,10,,10,31,0,11,No
+VerbIT,Private,Artificial intelligence,Israel,"New York, New York, United States",01-01-2017,08-06-2021,,569000000,6,29-03-2018,23-11-2021,,,,,250,Yes,5,1619,,1335,53,,43,4,,3,13,0,23,No
+Algolia,Private,Internet software & services,United States,"San Francisco, California, United States",01-01-2012,28-07-2021,,334220000,9,01-10-2013,28-07-2021,,,,,1000,No,10,3496,,2857,114,,93,9,,7,29,0,31,No
+Amperity,Private,Artificial intelligence,United States,"Seattle, Washington, United States",01-01-2016,13-07-2021,,187000000,5,26-04-2011,13-07-2021,7,4,,,500,No,6,2020,,3731,66,,122,5,,10,17,0,12,No
+At-Bay,Private,Fintech,United States,"San Francisco, California, United States",01-09-2016,27-07-2021,,292000000,7,17-11-2017,13-10-2021,,,,,250,No,5,1790,,1426,58,,46,4,,3,15,0,18,No
+BlackBuck,Private,"Supply chain, logistics, & delivery",India,"Bengaluru, Karnataka, India",01-01-2015,22-07-2021,,363995198,9,22-07-2015,22-07-2021,0,2,,,5000,Yes,7,2394,,2192,78,,72,6,,6,20,0,19,No
+Carsome,Private,E-commerce & direct-to-consumer,Malaysia,"Petaling Jaya, Selangor, Malaysia",01-02-2015,12-07-2021,,607350000,13,24-08-2015,07-01-2022,,,,,1000,No,7,2353,,2328,77,,76,6,,6,19,0,21,No
+Coda,Private,Internet software & services,United States,"San Francisco, California, United States",01-01-2014,08-07-2021,,240000000,4,01-07-2014,08-07-2021,,,,,250,No,8,2745,,2564,90,,84,7,,7,23,0,24,No
+Contentful,Private,Internet software & services,Germany,"Berlin, Berlin, Germany",01-01-2013,28-07-2021,,349600000,10,26-06-2013,28-07-2021,0,11,,,1000,No,9,3130,,2954,102,,97,8,,8,26,0,4,No
+dbt Labs,Private,Data management & analytics,United States,"Philadelphia, Pennsylvania, United States",01-05-2016,30-06-2021,,192400000,3,22-04-2020,30-06-2021,0,0,,,,No,6,1886,,434,61,,14,5,,1,15,0,7,No
+Fireblocks,Private,Fintech,United States,"New York, New York, United States",01-01-2018,27-07-2021,,1039000000,4,11-06-2019,01-12-2021,,,,,250,No,4,1303,,904,42,,29,3,,2,11,0,23,No
+FloQast,Private,Fintech,United States,"Sherman Oaks, California, United States",01-01-2013,21-07-2021,,229866665,8,07-10-2013,21-07-2021,0,5,,,250,No,9,3123,,2844,102,,93,8,,7,26,0,7,No
+FTX,Private,Fintech,China,"Nassau, New Providence, Bahamas",01-01-2018,20-07-2021,,1828690000,5,06-08-2019,31-01-2022,,,,,250,No,4,1296,,909,42,,29,3,,2,11,0,18,No
+GO1,Private,Internet software & services,Australia,"Brisbane, Queensland, Australia",01-01-2015,19-07-2021,,283708345,8,29-07-2015,19-07-2021,0,10,,,250,No,7,2391,,2182,78,,71,6,,5,20,0,26,No
+iCapital Network,Private,Fintech,United States,"New York, New York, United States",01-01-2013,27-07-2021,,729210871,11,21-06-2013,23-12-2021,,,,,500,No,9,3129,,3107,102,,102,8,,8,26,0,10,No
+Kitopi,Private,"Supply chain, logistics, & delivery",United Arab Emirates,"Dubai, Dubai, United Arab Emirates",05-01-2018,01-07-2021,,504000000,4,24-04-2018,01-07-2021,,,,,5000,No,4,1273,,1164,41,,38,3,,3,10,0,10,No
+Kurly/ Market Kurly,Private,"Supply chain, logistics, & delivery",South Korea,"Seoul, Seoul-t'ukpyolsi, South Korea",01-01-2015,09-07-2021,,692040408,8,20-09-2018,19-12-2021,,,,,500,No,7,2381,,1186,78,,38,6,,3,20,0,20,No
+Lunar,Private,Fintech,Denmark,"Aarhus, Midtjylland, Denmark",01-08-2015,12-07-2021,,371258766,9,13-08-2015,14-02-2022,0,2,,,500,Yes,6,2172,,2377,71,,78,5,,6,18,0,15,No
+M1 Finance,Private,Fintech,United States,"Chicago, Illinois, United States",20-04-2015,14-07-2021,,323224883,7,09-09-2016,14-07-2021,0,6,,,500,No,7,2277,,1769,74,,58,6,,4,19,0,16,No
+ManoMano,Private,E-commerce & direct-to-consumer,France,"Paris, Ile-de-France, France",19-06-2013,05-07-2021,,705545820,6,01-03-2016,05-07-2021,,,,,1000,No,9,2938,,1952,96,,64,8,,5,24,0,11,No
+Mercury,Private,Fintech,United States,"San Francisco, California, United States",01-01-2017,03-07-2021,,152214480,5,18-10-2017,01-08-2021,0,1,,,250,No,5,1644,,1383,54,,45,4,,3,14,0,28,No
+MURAL,Private,Internet software & services,United States,"San Francisco, California, United States",01-01-2011,20-07-2021,,192275000,5,04-05-2012,20-07-2021,,,,,1000,No,11,3853,,3364,126,,110,10,,9,32,0,17,No
+NIUM,Private,Fintech,Singapore,"Singapore, Central Region, Singapore",01-01-2015,13-07-2021,,280000000,8,15-03-2016,05-10-2021,0,5,,,500,No,7,2385,,2030,78,,66,6,,5,20,0,13,No
+NotCo,Private,Artificial intelligence,Chile,"Santiago, Region Metropolitana, Chile",01-01-2015,26-07-2021,,369999990,7,27-04-2017,26-07-2021,0,19,,,500,No,7,2398,,1551,78,,50,6,,4,20,0,13,No
+OpenSea,Private,E-commerce & direct-to-consumer,United States,"New York, New York, United States",20-12-2017,20-07-2021,,427220000,8,04-01-2018,04-06-2022,,,,,250,No,4,1308,,1612,43,,53,3,,4,11,0,5,No
+Prime Medicine,Private,Health,United States,"Cambridge, Massachusetts, United States",01-01-2019,13-07-2021,,315000000,2,22-10-2019,13-07-2021,,,,,100,No,3,924,,630,30,,20,2,,1,8,0,15,No
+PsiQuantum,Private,Hardware,United States,"Palo Alto, California, United States",01-01-2016,27-07-2021,,665000000,6,21-06-2016,27-07-2021,93,6,,,250,No,6,2034,,1862,66,,61,5,,5,17,0,13,No
+Redwood Materials,Private,Other,United States,"Carson City, Nevada, United States",01-01-2017,28-07-2021,,792000000,5,28-04-2017,22-09-2021,,,,,100,No,5,1669,,1608,54,,52,4,,4,14,0,4,No
+Remote,Private,Fintech,United States,"San Francisco, California, United States",25-01-2019,13-07-2021,,196000000,3,01-04-2020,13-07-2021,,,,,1000,No,3,900,,468,29,,15,2,,1,7,0,21,No
+Rohlik,Private,"Supply chain, logistics, & delivery",Czech Republic,"KarlÃƒÂ­n, Hlavni mesto Praha, Czech Republic",01-01-2014,01-07-2021,,402169373,4,01-09-2014,01-07-2021,0,11,,,500,No,8,2738,,2495,90,,82,7,,6,23,0,16,No
+solarisBank,Private,Fintech,Germany,"Berlin, Berlin, Germany",01-01-2016,13-07-2021,,389963000,5,14-03-2016,26-07-2021,0,8,,,500,No,6,2020,,1960,66,,64,5,,5,17,0,20,No
+Sourcegraph,Private,Internet software & services,United States,"San Francisco, California, United States",01-01-2013,13-07-2021,,248000000,7,01-01-2015,13-07-2021,1,12,,,250,No,9,3115,,2385,102,,78,8,,6,26,0,12,No
+Trader Interactive,Private,Other,United States,"Norfolk, Virginia, United States",01-01-2017,12-05-2021,,624000000,2,01-06-2017,12-05-2021,0,3,,,500,No,5,1592,,1441,52,,47,4,,3,13,0,19,No
+SmartHR,Private,Fintech,Japan,"Tokyo, Tokyo, Japan",23-01-2013,08-06-2021,,194305050,7,02-04-2015,08-06-2021,1,0,,,500,No,9,3058,,2259,100,,74,8,,6,25,0,17,No
+Pleo,Private,Fintech,Denmark,"Copenhagen, Hovedstaden, Denmark",01-03-2015,06-07-2021,,428809636,7,26-05-2016,09-12-2021,0,1,,,500,No,7,2319,,2023,76,,66,6,,5,19,0,9,No
+BharatPe,Private,Fintech,India,"New Delhi, Delhi, India",01-04-2018,30-07-2021,,700534194,11,01-10-2018,25-10-2021,,,,,5000,No,4,1216,,1120,39,,36,3,,3,10,0,21,No
+Blockstream,Private,Fintech,Canada,"Victoria, British Columbia, Canada",01-01-2014,24-08-2021,,299000000,6,17-11-2014,30-11-2021,5,6,,,250,No,8,2792,,2570,91,,84,7,,7,23,0,25,No
+Bluecore,Private,Artificial intelligence,United States,"New York, New York, United States",06-01-2013,05-08-2021,,238219452,7,02-04-2013,05-08-2021,3,2,,,500,No,9,3133,,3047,102,,100,8,,8,26,0,10,No
+CoinDCX,Private,Fintech,India,"Mumbai, Maharashtra, India",01-01-2018,10-08-2021,,108991362,6,30-03-2018,10-08-2021,,,,,100,No,4,1317,,1229,43,,40,3,,3,11,0,17,No
+DailyPay,Private,Fintech,United States,"New York, New York, United States",01-01-2015,18-05-2021,,514000000,9,31-10-2015,18-05-2021,0,8,,,500,No,7,2329,,2026,76,,66,6,,5,19,0,9,No
+DistroKid,Private,Internet software & services,United States,"San Francisco, California, United States",01-01-2013,16-08-2021,,Incomplete data,3,10-10-2018,16-08-2021,,,,,50,No,9,3149,,1041,103,,34,8,,2,26,0,9,No
+Divvy,M&A,Fintech,United States,"Draper, Utah, United States",01-01-2016,0,06-05-2021,417500000,5,13-12-2017,05-01-2021,0,1,,,500,No,   ,,,1119,#VALUE!,,36,,,3,,0,11,Yes
+Divvy Homes/ Divvy,Private,Fintech,United States,"San Francisco, California, United States",01-01-2017,13-08-2021,,1225000000,7,25-01-2018,12-10-2021,0,1,,,100,No,5,1685,,1356,55,,44,4,,3,14,0,28,No
+DriveWealth,Private,Fintech,United States,"Chatham, New Jersey, United States",01-01-2012,20-08-2021,,550800000,5,24-03-2012,20-08-2021,0,2,,,500,No,10,3519,,3436,115,,112,9,,9,29,0,26,No
+Dunamu,Private,Fintech,South Korea,"Seoul, Seoul-t'ukpyolsi, South Korea",01-04-2012,22-07-2021,,155738218,7,09-03-2013,23-09-2021,0,12,,,500,Yes,10,3399,,3120,111,,102,9,,8,28,0,10,No
+FalconX,Private,Fintech,United States,"San Mateo, California, United States",01-05-2018,10-08-2021,,326999952,7,09-05-2018,10-08-2021,,,,,250,No,4,1197,,1189,39,,39,3,,3,10,0,21,No
+FullStory,Private,Internet software & services,United States,"Atlanta, Georgia, United States",01-01-2014,04-08-2021,,172197854,7,16-07-2014,04-08-2021,17,2,,,500,No,8,2772,,2576,91,,84,7,,7,23,0,8,No
+Grafana Labs,Private,Internet software & services,United States,"New York, New York, United States",01-01-2014,24-08-2021,,295230000,4,03-12-2018,24-08-2021,0,7,,,500,No,8,2792,,995,91,,32,7,,2,23,0,18,No
+Human Interest,Private,Fintech,United States,"San Francisco, California, United States",01-01-2015,04-08-2021,,336700000,8,24-08-2015,04-08-2021,0,2,,,1000,No,7,2407,,2172,79,,71,6,,5,20,0,20,No
+LaunchDarkly,Private,Internet software & services,United States,"Oakland, California, United States",01-01-2014,28-07-2021,,330300000,8,22-01-2015,10-08-2021,0,2,,,500,No,8,2765,,2392,90,,78,7,,6,23,0,5,No
+Matrixport,Private,Fintech,Singapore,"Singapore, Central Region, Singapore",01-02-2019,01-06-2021,,100000000,2,01-12-2019,02-08-2021,,,,,250,Yes,3,851,,610,28,,20,2,,1,7,0,19,No
+Maven Clinic,Private,Health,United States,"New York, New York, United States",01-01-2014,17-08-2021,,202100000,7,09-04-2015,17-08-2021,0,2,,,500,No,8,2785,,2322,91,,76,7,,6,23,0,20,No
+MindTickle,Private,Internet software & services,United States,"San Francisco, California, United States",01-01-2011,03-08-2021,,281300000,7,10-10-2014,05-08-2021,0,3,,,500,Yes,11,3867,,2491,127,,81,10,,6,32,0,17,No
+OfBusiness,Private,E-commerce & direct-to-consumer,India,"Gurgaon, Haryana, India",01-01-2015,31-07-2021,,878125171,11,24-02-2016,20-12-2021,,,,,1000,No,7,2403,,2126,78,,69,6,,5,20,0,25,No
+Offchain Labs,Private,Internet software & services,United States,"New York, New York, United States",01-01-2018,31-08-2021,,123700000,3,03-04-2013,31-08-2021,0,3,,,50,Yes,4,1338,,3072,43,,100,3,,8,11,0,6,No
+Opay,Private,Fintech,Nigeria,"Ikeja, Lagos, Nigeria",01-06-2018,23-08-2021,,570000000,3,09-07-2019,23-08-2021,,,,,500,No,4,1179,,776,38,,25,3,,2,10,0,15,No
+People.ai,Private,Internet software & services,United States,"San Francisco, California, United States",03-02-2016,11-08-2021,,200001000,10,07-07-2016,19-08-2021,60,5,,,250,No,6,2016,,1869,66,,61,5,,5,17,0,20,No
+PicsArt,Private,Mobile & telecommunications,United States,"San Francisco, California, United States",01-01-2011,26-08-2021,,195000000,5,05-02-2015,26-08-2021,0,12,,,5000,No,11,3890,,2394,127,,78,10,,6,32,0,28,No
+Reify Health,Private,Health,United States,"Boston, Massachusetts, United States",01-01-2012,10-08-2021,,259630000,6,01-06-2012,10-08-2021,,,,,250,No,10,3509,,3357,115,,110,9,,9,29,0,18,No
+Shield AI,Private,Artificial intelligence,United States,"San Diego, California, United States",28-05-2015,24-08-2021,,348144999,8,01-10-2015,24-08-2021,0,6,,,250,No,7,2280,,2154,74,,70,6,,5,19,0,6,No
+Snorkel AI,Private,Artificial intelligence,United States,"Palo Alto, California, United States",22-03-2019,09-08-2021,,135250000,5,11-06-2019,09-08-2021,0,1,,,100,No,3,871,,790,28,,25,2,,2,7,0,2,No
+SVOLT Energy/ Svolt Energy Technology Co.,Private,Auto & transportation,China,"Baoding, Hebei, China",01-01-2016,08-06-2020,,3268694000,4,01-04-2021,13-12-2021,47,4,,,1000,Yes,5,1620,,256,53,,8,4,,0,13,0,8,No
+TaxBit,Private,Fintech,United States,"Draper, Utah, United States",01-01-2018,04-08-2021,,235750000,5,21-12-2018,12-08-2021,0,1,,,250,No,4,1311,,965,43,,31,3,,2,11,0,17,No
+Xingyun Group,Private,E-commerce & direct-to-consumer,China,"Shenzhen, Guangdong, China",25-05-2015,24-09-2020,,949506218,6,01-09-2015,19-04-2021,,,,,5000,No,6,1949,,2057,63,,67,5,,5,16,0,18,No
+XtalPi,Private,Artificial intelligence,China,"Cambridge, Massachusetts, United States",01-05-2014,11-08-2021,,786401703,10,01-10-2015,11-08-2021,0,2,,,100,No,8,2659,,2141,87,,70,7,,5,22,0,10,No
+Zetwerk,Private,Internet software & services,India,"Bengaluru, Karnataka, India",01-01-2018,20-08-2021,,649939073,10,01-08-2018,28-12-2021,,,,,250,No,4,1327,,1245,43,,40,3,,3,11,0,0,No
+KKW Beauty,Unexplained Exit,E-commerce & direct-to-consumer,United States,"Woodland Hills, California, United States",01-06-2017,29-06-2020,,200000000,1,29-06-2020,29-06-2020,,,,,50,No,4,1124,,0,36,,0,3,,0,9,0,20,No
+Kuaikan Manhua,Private,Internet software & services,China,"Beijing, Beijing, China",01-12-2014,01-12-2017,,594219925,6,14-01-2015,23-08-2021,,,,,100,Yes,4,1096,,2413,36,,79,3,,6,9,0,2,No
+Star Charge,Private,Auto & transportation,China,"Yangzhou, Jiangsu, China",01-01-2014,19-05-2021,,125210515,2,01-09-2020,19-05-2021,0,0,,,5000,Yes,8,2695,,260,88,,8,7,,0,22,0,0,No
+1047 Games,Private,Internet software & services,United States,"Zephyr Cove, Nevada, United States",01-01-2016,14-09-2021,,116500000,4,,,,,,,,No,6,2083,,0,68,,0,5,,0,17,0,7,No
+Agile Robots,Private,Hardware,Germany,"Gilching, Bayern, Germany",01-01-2018,09-09-2021,,240050589,4,03-07-2019,09-09-2021,,,,,100,No,4,1347,,799,44,,26,3,,2,11,0,18,No
+Alloy,Private,Fintech,United States,"New York, New York, United States",01-01-2015,30-09-2021,,155800000,9,10-08-2015,30-09-2021,0,1,,,250,No,7,2464,,2243,80,,73,6,,6,20,0,22,No
+Andela,Private,Internet software & services,United States,"New York, New York, United States",21-05-2014,29-09-2021,,381000000,10,01-05-2014,29-09-2021,0,1,,,5000,Yes,8,2688,,2708,88,,88,7,,7,22,0,7,No
+apna,Private,Internet software & services,India,"Mumbai, Maharashtra, India",01-01-2019,15-09-2021,,193450000,5,05-07-2019,15-09-2021,,,,,500,Yes,3,988,,803,32,,26,2,,2,8,0,0,No
+Ascend Money/ Ascend Group,Private,Fintech,Thailand,"Din Daeng, Krung Thep, Thailand",01-01-2015,27-09-2021,,150000000,1,26-09-2021,26-09-2021,,,,,10000,No,7,2461,,0,80,,0,6,,0,20,0,14,No
+Assembly,Private,Internet software & services,United States,"Culver City, California, United States",01-01-2019,21-09-2021,,2900000,3,01-01-2013,23-08-2017,,,,,250,No,3,994,,1695,32,,55,2,,4,8,0,21,No
+Aviatrix,Private,Internet software & services,Santa Clara,"Santa Clara, California, United States",01-01-2014,08-09-2021,,340800000,6,30-09-2014,08-09-2021,5,1,,,500,No,8,2807,,2535,92,,83,7,,6,23,0,31,No
+BitSight Technologies/ BitSight,Private,Cybersecurity,United States,"Boston, Massachusetts, United States",01-01-2011,13-09-2021,,400600000,6,15-04-2011,13-09-2021,39,25,,,251,Yes,11,3908,,3804,128,,124,10,,10,32,0,13,No
+BlockDaemon,Private,Fintech,United States,"Los Angeles, California, United States",01-01-2017,21-09-2021,,398230000,8,07-11-2017,26-01-2022,0,2,,,250,No,5,1724,,1541,56,,50,4,,4,14,0,1,No
+bolttech,Private,Fintech,Singapore,"Singapore, Central Region, Singapore",01-04-2020,01-07-2021,,210000000,3,01-07-2021,06-12-2021,,,,,5000,No,2,456,,158,15,,5,1,,0,4,0,12,No
+Built/ Built Technologies,Private,Internet software & services,United States,"Nashville, Tennessee, United States",01-01-2014,30-09-2021,,289075592,5,14-11-2017,30-09-2021,0,2,,,250,No,8,2829,,1416,92,,46,7,,3,23,0,26,No
+Carousell,Private,E-commerce & direct-to-consumer,Singapore,"Singapore, Central Region, Singapore",01-01-2012,15-09-2021,,287690199,13,01-03-2013,11-11-2021,0,4,,,1000,No,10,3545,,3177,116,,104,9,,8,29,0,3,No
+Cider,Private,E-commerce & direct-to-consumer,China,"Hong Kong, Hong Kong Island, Hong Kong",01-05-2020,02-09-2021,,140000000,4,01-09-2020,02-09-2021,,,,,50,No,2,489,,366,16,,12,1,,1,4,0,9,No
+Commure,Private,Internet software & services,United States,"San Francisco, California, United States",01-01-2017,13-09-2021,,542297316,5,28-09-2018,16-09-2021,0,1,,,500,No,5,1716,,1084,56,,35,4,,2,14,0,9,No
+Copado,Private,Data management & analytics,Spain,"Chicago, Illinois, United States",01-01-2013,13-09-2021,,270832372,4,20-09-2018,13-09-2021,0,1,,,1000,No,9,3177,,1089,104,,35,8,,2,26,0,12,No
+Gem,Private,Internet software & services,United States,"San Francisco, California, United States",01-01-2017,28-09-2021,,148000000,4,21-08-2017,28-09-2021,0,1,,,250,No,5,1731,,1499,56,,49,4,,4,14,0,29,No
+HomeLight,Private,Fintech,United States,"San Francisco, California, United States",01-01-2012,02-09-2021,,627500000,12,19-01-2012,02-09-2021,0,13,,,500,No,10,3532,,3514,116,,115,9,,9,29,0,29,No
+Hotmart,Private,E-commerce & direct-to-consumer,Netherlands,"Amsterdam, Noord-Holland, The Netherlands",19-04-2011,17-03-2020,,127496388,5,04-08-2011,30-03-2021,0,0,,,1000,No,9,3255,,3526,106,,115,8,,9,27,0,27,No
+JumpCloud,Private,Data management & analytics,United States,"Louisville, Colorado, United States",01-01-2012,13-09-2021,,416717501,12,11-12-2012,19-10-2021,12,12,,,500,No,10,3543,,3234,116,,106,9,,8,29,0,20,No
+Konfio,Private,Fintech,Mexico,"Mexico City, Distrito Federal, Mexico",01-04-2013,29-09-2021,,695966075,11,01-12-2014,29-09-2021,,,,,500,No,9,3103,,2494,101,,81,8,,6,25,0,13,No
+Mammoth Biosciences,Private,Health,United States,"San Francisco, California, United States",01-01-2017,09-09-2021,,264545000,7,31-05-2017,09-09-2021,20,3,,,250,No,5,1712,,1562,56,,51,4,,4,14,0,10,No
+Marshmallow,Private,Fintech,United Kingdom,"London, England, United Kingdom",01-05-2017,08-09-2021,,116200000,4,07-06-2018,07-09-2021,,,,,250,Yes,5,1591,,1188,52,,39,4,,3,13,0,14,No
+Matillion,Private,Data management & analytics,United Kingdom,"Manchester, Manchester, United Kingdom",01-01-2011,15-09-2021,,310308117,5,29-11-2016,15-09-2021,0,2,,,250,No,11,3910,,1751,128,,57,10,,4,32,0,9,No
+Mobile Premier League,Private,Internet software & services,India,"Bengaluru, Karnataka, India",01-09-2018,15-09-2021,,375500000,5,08-11-2018,15-09-2021,,,,,500,No,4,1110,,1042,36,,34,3,,2,9,0,17,No
+News Break/ NewsBreak,Private,Internet software & services,United States,"Mountain View, California, United States",01-01-2015,07-01-2021,,151400080,5,29-05-2015,07-01-2021,7,6,,,200,No,7,2198,,2050,72,,67,6,,5,18,0,3,No
+Nexii,Private,Other,Canada,"Vancouver, British Columbia, Canada",01-01-2019,08-09-2021,,85000000,3,23-10-2020,13-09-2021,9,2,,,500,No,3,981,,325,32,,10,2,,0,8,0,20,No
+Ninja Van,Private,"Supply chain, logistics, & delivery",Singapore,"Singapore, Central Region, Singapore",01-01-2014,27-09-2021,,974500000,6,02-03-2015,26-09-2021,0,1,,,5000,No,8,2826,,2400,92,,78,7,,6,23,0,22,No
+Opentrons,Private,Hardware,United States,"Brooklyn, New York, United States",01-01-2013,23-09-2021,,240034056,8,14-07-2014,23-09-2021,,,,,500,No,9,3187,,2628,104,,86,8,,7,26,0,10,No
+Orchard,Private,Fintech,United States,"New York, New York, United States",01-09-2017,09-09-2021,,472000000,9,10-05-2018,09-09-2021,0,3,,,1000,No,5,1469,,1218,48,,39,4,,3,12,0,25,No
+PandaDoc,Private,Internet software & services,United States,"San Francisco, California, United States",01-01-2011,22-09-2021,,51055000,7,09-05-2013,22-09-2021,0,2,,,1000,No,11,3917,,3058,128,,100,10,,8,32,0,8,No
+Rebellion Defense,Private,Artificial intelligence,United States,"Washington, District of Columbia, United States",01-01-2019,16-09-2021,,150000000,2,01-01-2019,16-09-2021,,,,,250,No,3,989,,989,32,,32,2,,2,8,0,13,No
+Spring Health,Private,Health,United States,"New York, New York, United States",01-01-2016,16-09-2021,,295500000,6,10-04-2017,16-09-2021,0,0,,,500,Yes,6,2085,,1620,68,,53,5,,4,17,0,10,No
+STORD,Private,"Supply chain, logistics, & delivery",United States,"Atlanta, Georgia, United States",01-10-2015,13-09-2021,,205039990,5,18-04-2018,14-09-2021,,,,,1000,Yes,6,2174,,1245,71,,40,5,,3,18,0,14,No
+TrueLayer,Private,Fintech,United Kingdom,"London, England, United Kingdom",01-01-2016,21-09-2021,,271484591,8,14-02-2017,21-09-2021,0,4,,,500,No,6,2090,,1680,68,,55,5,,4,17,0,16,No
+Varo Bank,Private,Fintech,United States,"San Francisco, California, United States",01-11-2015,09-09-2021,,992400000,8,02-05-2016,09-09-2021,0,4,,,1000,No,6,2139,,1956,70,,64,5,,5,18,0,25,No
+Vedantu,Private,Edtech,India,"Bangalore, Karnataka, India",29-10-2011,29-09-2021,,290886532,10,15-07-2013,29-09-2021,1,0,,,1000,No,10,3623,,2998,119,,98,9,,8,30,0,0,No
+Wave/ Wave Mobile Money,Private,Fintech,Senegal,"Dakar, Dakar, Senegal",01-02-2018,07-09-2021,,200000000,1,07-09-2021,07-09-2021,,,,,1000,No,4,1314,,0,43,,0,3,,0,11,0,5,No
+Whatnot,Private,E-commerce & direct-to-consumer,United States,"Marina Del Rey, California, United States",01-12-2019,16-09-2021,,224700000,6,05-02-2020,15-09-2021,,,,,50,No,2,655,,588,21,,19,1,,1,5,0,19,No
+Xendit,Private,Fintech,Indonesia,"Jakarta, Jakarta Raya, Indonesia",01-01-2014,14-09-2021,,214720000,6,01-06-2015,14-09-2021,,,,,1000,No,8,2813,,2297,92,,75,7,,6,23,0,5,No
+Zihaiguo,Private,Consumer & retail,China,"Banan, Chongqing, China",24-08-2017,06-05-2021,,79632546,3,01-10-2019,07-05-2021,,,,,50,Yes,4,1351,,584,44,,19,3,,1,11,0,6,No
+EQRx,Private,Health,United States,"Cambridge, Massachusetts, United States",01-01-2019,11-01-2021,,1900000000,2,12-01-2020,17-12-2021,0,1,3650000000,552000000,500,No,3,741,,705,24,,23,2,,1,6,0,8,No
+Forte Labs/ Forte,Private,Fintech,United States,"San Francisco, California, United States",01-02-2019,12-05-2021,,910000000,4,12-03-2019,12-11-2021,0,3,,,250,Yes,3,831,,976,27,,32,2,,2,7,0,13,No
+Hailo,Private,Artificial intelligence,Israel,"Tel Aviv, Tel Aviv, Israel",02-02-2017,23-06-2021,,223931287,6,05-06-2017,12-10-2021,7,0,,,,No,5,1602,,1590,52,,52,4,,4,13,0,7,No
+Sorare,Private,E-commerce & direct-to-consumer,France,"Paris, Ile-de-France, France",01-12-2018,21-09-2021,,739404620,5,21-05-2019,20-09-2021,,,,,50,No,3,1025,,853,33,,27,2,,2,8,0,17,No
+Uala/ UalÃ¡,Acquired,Fintech,Argentina,"Buenos Aires, Distrito Federal, Argentina",04-10-2017,13-08-2021,,22408656,7,11-10-2013,28-05-2019,0,1,,,50,No,4,1409,,2055,46,,67,3,,5,12,0,11,Yes
+Newlink Group/ Newlinks Technology,Private,E-commerce & direct-to-consumer,China,"Beijing, Beijing, China",01-01-2016,10-07-2020,,645148064,10,04-05-2018,27-01-2022,,,,,50,No,5,1652,,1364,54,,44,4,,3,14,0,13,No
+Acko General Insurance/ Acko,Private,Fintech,India,"Mumbai, Maharashtra, India",01-01-2016,18-10-2021,,458000000,6,23-05-2017,27-10-2021,,,,,500,Yes,6,2117,,1618,69,,53,5,,4,17,0,13,No
+Aiven,Private,Internet software & services,Finland,"Helsinki, Southern Finland, Finland",01-01-2016,18-10-2021,,210000000,5,22-06-2017,19-10-2021,0,5,,,500,Yes,6,2117,,1580,69,,51,5,,4,17,0,9,No
+Ajaib,Private,Fintech,Indonesia,"Jakarta, Jakarta Raya, Indonesia",01-01-2018,04-10-2021,,245100000,5,22-08-2018,04-10-2021,,,,,250,No,4,1372,,1139,45,,37,3,,3,11,0,8,No
+Alchemy,Private,Fintech,United States,"San Francisco, California, United States",01-08-2017,28-10-2021,,563903667,5,17-04-2019,08-02-2022,19,136,,,100,Yes,5,1549,,1028,50,,33,4,,2,13,0,21,No
+Augury,Private,Artificial intelligence,United States,"New York, New York, United States",01-08-2011,26-10-2021,,294000000,7,06-10-2014,26-10-2021,,,,,250,No,11,3739,,2577,122,,84,10,,7,31,0,11,No
+Celsius Network,Private,Fintech,United States,"London, England, United Kingdom",01-01-2017,12-10-2021,,843800000,7,26-03-2018,24-11-2021,0,13,,,500,No,5,1745,,1339,57,,43,4,,3,14,0,18,No
+Chronosphere,Private,Data management & analytics,United States,"New York, New York, United States",01-01-2019,07-10-2021,,254400000,3,05-11-2015,07-10-2021,0,1,,,250,No,3,1010,,2163,33,,71,2,,5,8,0,0,No
+ClickHouse,Private,Data management & analytics,United States,"Portola Valley, California, United States",11-08-2021,28-10-2021,,300000000,2,20-09-2021,28-10-2021,,,,,50,No,1,78,,38,2,,1,0,,0,1,0,11,No
+CoinList,Private,Fintech,United States,"San Francisco, California, United States",01-01-2017,15-10-2021,,119200000,3,05-04-2018,26-10-2021,,,,,50,No,5,1748,,1300,57,,42,4,,3,14,0,11,No
+CoinSwitch Kuber,Private,Fintech,India,"Bangalore, Karnataka, India",14-06-2017,06-10-2021,,300603815,4,24-03-2018,06-10-2021,,,,,250,No,5,1575,,1292,51,,42,4,,3,13,0,24,No
+Dental Monitoring,Private,Health,France,"Paris, Ile-de-France, France",01-01-2013,21-10-2021,,232400441,5,01-09-2013,21-10-2021,41,15,,,500,No,9,3215,,2972,105,,97,8,,8,26,0,16,No
+Devo,Private,Data management & analytics,United States,"Cambridge, Massachusetts, United States",01-05-2011,26-10-2021,,381000000,6,03-05-2016,26-10-2021,0,0,,,500,No,11,3831,,2002,125,,65,10,,5,31,0,16,No
+Dragos,Private,Cybersecurity,United States,"Hanover, Maryland, United States",01-04-2016,28-10-2021,,364200000,8,05-05-2016,28-10-2021,0,8,,,500,No,6,2036,,2002,66,,65,5,,5,17,0,4,No
+Elemy,Private,Health,United States,"Miami, Florida, United States",01-01-2019,06-10-2021,,323000000,3,21-07-2020,06-10-2021,,,,,1000,No,3,1009,,442,33,,14,2,,1,8,0,13,No
+Enpal,Private,Internet software & services,Germany,"Berlin, Berlin, Germany",01-02-2017,18-10-2021,,708913653,10,25-07-2017,17-10-2021,,,,,500,No,5,1720,,1545,56,,50,4,,4,14,0,19,No
+Fabric,Private,"Supply chain, logistics, & delivery",United States,"New York, New York, United States",01-01-2015,26-10-2021,,336000000,5,30-06-2015,26-10-2021,5,0,,,500,No,7,2490,,2310,81,,75,6,,6,20,0,19,No
+Flock Freight,Private,"Supply chain, logistics, & delivery",United States,"Solana Beach, California, United States",01-02-2015,20-10-2021,,399000000,7,01-05-2015,20-10-2021,0,3,,,500,No,7,2453,,2364,80,,77,6,,6,20,0,20,No
+GrubMarket,Private,E-commerce & direct-to-consumer,United States,"San Francisco, California, United States",01-05-2014,14-09-2021,,382100000,7,27-01-2015,16-11-2021,0,7,,,50,No,8,2693,,2485,88,,81,7,,6,22,0,18,No
+Hibob,Private,Internet software & services,Israel,"Tel Aviv, Tel Aviv, Israel",01-01-2015,12-10-2021,,274000000,8,16-11-2015,12-10-2021,0,3,,,500,No,7,2476,,2157,81,,70,6,,5,20,0,20,No
+Honor Technology/ Honor,Private,Internet software & services,United States,"Concord, California, United States",01-08-2014,05-10-2021,,625000000,6,02-04-2015,05-10-2021,3,6,,,,No,8,2622,,2378,86,,78,7,,6,22,0,18,No
+Karat,Private,Internet software & services,United States,"Seattle, Washington, United States",25-03-2014,13-10-2021,,169100000,5,04-11-2015,13-10-2021,0,2,,,500,Yes,8,2759,,2170,90,,71,7,,5,23,0,18,No
+Licious,Private,E-commerce & direct-to-consumer,India,"Bengaluru, Karnataka, India",01-01-2015,05-10-2021,,530500000,8,24-09-2015,06-10-2021,,,,,5000,No,7,2469,,2204,81,,72,6,,6,20,0,0,No
+Masterworks,Private,Fintech,United States,"New York, New York, United States",01-09-2017,05-10-2021,,110000000,1,05-10-2021,05-10-2021,0,0,,,100,No,5,1495,,0,49,,0,4,,0,12,0,18,No
+Medable,Private,Internet software & services,United States,"Palo Alto, California, United States",01-01-2015,26-10-2021,,506638069,8,17-12-2015,26-10-2021,2,4,,,500,No,7,2490,,2140,81,,70,6,,5,20,0,9,No
+Modern Treasury,Private,Fintech,United States,"San Francisco, California, United States",01-06-2018,06-10-2021,,133000000,4,22-08-2018,06-10-2021,0,1,,,50,Yes,4,1223,,1141,40,,37,3,,3,10,0,3,No
+Pattern,Private,Internet software & services,United States,"Lehi, Utah, United States",01-01-2013,06-10-2021,,277000000,2,11-08-2020,06-10-2021,1,6,,,1000,No,9,3200,,421,105,,13,8,,1,26,0,9,No
+Rebel Foods,Private,E-commerce & direct-to-consumer,India,"Pune, Maharashtra, India",01-01-2011,07-10-2021,,534517794,23,11-01-2019,26-11-2021,3,12,,,10000,Yes,11,3932,,1050,129,,34,10,,2,32,0,6,No
+Sky Mavis,Private,Internet software & services,Vietnam,"Ho Chi Minh City, NA - Vietnam, Vietnam",24-04-2019,04-10-2021,,161000000,3,08-11-2019,05-10-2021,,,,,50,No,3,894,,697,29,,22,2,,1,7,0,12,No
+Solo.io,Private,Internet software & services,United States,"Cambridge, Massachusetts, United States",01-09-2017,07-10-2021,,171500000,5,28-09-2017,07-10-2021,0,1,,,250,No,5,1497,,1470,49,,48,4,,4,12,0,11,No
+SonderMind,Private,Health,United States,"Denver, Colorado, United States",01-01-2014,28-07-2021,,183035000,5,30-12-2017,28-07-2021,1,2,,,500,Yes,8,2765,,1306,90,,42,7,,3,23,0,10,No
+Swile,Private,Fintech,France,"Paris, Ile-de-France, France",01-01-2018,11-10-2021,,325880034,4,29-05-2018,11-10-2021,0,2,,,500,No,4,1379,,1231,45,,40,3,,3,11,0,9,No
+Tier Mobility,Private,Travel,Germany,"Berlin, Berlin, Germany",01-07-2018,25-10-2021,,646934882,7,15-10-2018,25-10-2021,0,7,,,1000,No,4,1212,,1106,39,,36,3,,3,10,0,25,No
+TradingView,Private,Fintech,United States,"London, England, United Kingdom",01-09-2011,14-10-2021,,338752500,7,31-05-2013,14-10-2021,,,,,500,No,11,3696,,3058,121,,100,10,,8,30,0,12,No
+TrialSpark,Private,Health,United States,"New York, New York, United States",01-06-2014,30-09-2021,,156000000,3,28-09-2017,30-09-2021,0,4,,,250,No,8,2678,,1463,87,,48,7,,4,22,0,14,No
+Truepill,Private,Health,United States,"San Mateo, California, United States",01-01-2016,27-10-2021,,255400000,7,01-01-2017,27-10-2021,0,1,,,500,No,6,2126,,1760,69,,57,5,,4,17,0,21,No
+VideoAmp,Private,Internet software & services,United States,"Los Angeles, California, United States",01-06-2014,21-10-2021,,456600000,6,12-12-2014,21-10-2021,7,5,,,500,No,8,2699,,2505,88,,82,7,,6,22,0,6,No
+Vuori,Private,E-commerce & direct-to-consumer,United States,"Encinitas, California, United States",01-01-2013,13-10-2021,,445000000,2,15-08-2019,13-10-2021,0,44,,,250,No,9,3207,,790,105,,25,8,,2,26,0,17,No
+YugaByte,Private,Data management & analytics,United States,"Sunnyvale, California, United States",01-02-2016,28-10-2021,,291000000,5,10-02-2016,28-10-2021,3,4,,,500,No,6,2096,,2087,68,,68,5,,5,17,0,0,No
